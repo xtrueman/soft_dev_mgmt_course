@@ -1,13 +1,19 @@
 # Список литературы, статей и полезных материалов
 
+## Информация по инструментам
+
+- [Youtube-канал kaiten](https://www.youtube.com/channel/UCIRKgU_Qf1D4am2hRVb5heA/videos)
+
 
 ## Полезные сайты:
+
 - [Unusual concepts: Справочник](https://blog.unusual-concepts.ru/agilebasics/)
 - [ScrumTrek: Блог и глоссарии](https://scrumtrek.ru/blog/)
 - [Agile Russia: статьи](http://agilerussia.ru/category/articles/)
 
 
 ## Статьи:
+
 - [Методологии разработки ПО: Agile](https://gb.ru/posts/methodologies_agile)
 
 
@@ -40,7 +46,7 @@
     [4](https://cloud.mail.ru/public/ZBMq/yzcEJUoSF/))
 - [udemy: Антон Кучер: Как стать классным менеджером проектов и не ох..еть (2021)](http://www.udemy.com/course/pmcourse/)
    ([слив](https://cloud.mail.ru/public/SGV9/H632TU5uc/)
-   
+
 
 **Управление продуктом**:
 

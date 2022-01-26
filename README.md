@@ -1,16 +1,23 @@
 # Курсу "Менеджмент разработки ПО" 2022
 
-[Как будет выставляться зачёт по предмету](scoring.md)
+## Инструменты
+
+- [Kaiten](https://mrpo.kaiten.io/)
+- [Planning Poker](https://www.planningpoker.com/)
 
 ## Темы:
 
-1. [SCRUM](01-SCRUM.mc)
-2. Kanban
-3. Водопадные модели разработки
+1. [SCRUM](01-SCRUM.md)
+2. [Kanban](02-Kanban.md)
+3. [Водопадные модели разработки](03-waterfall.md)
 4. Управление проектом
 5. Управление продуктом
 
-[Полезные материалы](resources-and-literature.md)
+## Полезное
+
+- [Как будет выставляться зачёт по предмету](scoring.md)
+- [Полезные материалы](resources-and-literature.md)
+
 
 
 © Валерий Студенников
