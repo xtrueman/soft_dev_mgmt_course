@@ -3,7 +3,9 @@
 ## Инструменты
 
 - [Kaiten](https://mrpo.kaiten.io/)
+- [EasyRetro](https://easyretro.io/)
 - [Planning Poker](https://www.planningpoker.com/)
+- [planIT poker](https://www.planitpoker.com/)
 
 ## Темы:
 
@@ -17,7 +19,6 @@
 
 - [Как будет выставляться зачёт по предмету](scoring.md)
 - [Полезные материалы](resources-and-literature.md)
-
 
 
 © Валерий Студенников

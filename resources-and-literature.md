@@ -2,7 +2,8 @@
 
 ## Информация по инструментам
 
-- [Youtube-канал kaiten](https://www.youtube.com/channel/UCIRKgU_Qf1D4am2hRVb5heA/videos)
+- [Youtube-канал Kaiten](https://www.youtube.com/channel/UCIRKgU_Qf1D4am2hRVb5heA/videos)
+- [Документация / FAQ по Kaiten](https://faq-ru.kaiten.site)
 
 
 ## Полезные сайты:
