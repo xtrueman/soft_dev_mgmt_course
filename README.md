@@ -9,6 +9,7 @@
 
 ## Темы:
 
+0. [Agile](00-Agile.md)
 1. [SCRUM](01-SCRUM.md)
 2. [Kanban](02-Kanban.md)
 3. [Lean](03-Lean.md)

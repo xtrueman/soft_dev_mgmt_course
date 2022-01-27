@@ -17,6 +17,9 @@
 
 - [Методологии разработки ПО: Agile](https://gb.ru/posts/methodologies_agile)
 
+## Видео:
+- [Канал ScrumTrek](https://www.youtube.com/c/ScrumTrekOfficial)
+
 
 ## Литература:
 
