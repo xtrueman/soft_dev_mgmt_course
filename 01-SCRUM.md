@@ -275,10 +275,10 @@ PO формирует долгосрочный план (план релиза) 
 
 Статьи:
 - [scrumtrek:: Scrum: что это и зачем нужно](https://scrumtrek.ru/blog/agile-scrum/3777/scrum-chto-eto/)
+- [Unusual Concepts: статьи по Scrum](https://blog.unusual-concepts.ru/agilebasics-scrum/)
 - [Асхат Уразбаев:: Обзор методологии Scrum](http://citforum.ru/SE/project/scrum/)
 
 Книги:
 - [«Заметки с передовой», Хенрик Книберг](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 - [«Scrum и Kanban: выжимаем максимум», Хенрик Книберг и Маттиас Скарин](http://scrum.org.ua/wp-content/uploads/ScrumAndKanbanRuFinal.pdf)
 - «Scrum. Гибкая разработка ПО», Макйл Кон
-
