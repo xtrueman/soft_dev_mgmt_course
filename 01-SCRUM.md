@@ -313,6 +313,7 @@ PO формирует долгосрочный план (план релиза) 
 - [scrumtrek:: Scrum: что это и зачем нужно](https://scrumtrek.ru/blog/agile-scrum/3777/scrum-chto-eto/)
 - [Unusual Concepts: статьи по Scrum](https://blog.unusual-concepts.ru/agilebasics-scrum/)
 - [Асхат Уразбаев:: Обзор методологии Scrum](http://citforum.ru/SE/project/scrum/)
+- [Понимание относительных оценок в Agile. Даёшь Story Points!](https://vc.ru/u/370941-sergey-krasavin/285611-ponimanie-otnositelnyh-ocenok-v-agile-daesh-story-points)
 
 Книги:
 - [«Руководство по Scrum 2020», Кен Швабер и Джефф Сазерленд](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf)
