@@ -6,6 +6,7 @@
 - [EasyRetro](https://easyretro.io/)
 - [Planning Poker](https://www.planningpoker.com/)
 - [planIT poker](https://www.planitpoker.com/)
+- [Miro](https://miro.com/) — онлайн-доска для командной работы
 
 ## Темы:
 

@@ -305,7 +305,7 @@ PO формирует долгосрочный план (план релиза) 
 
 - Story points (Planning poker)
 - Epics / User Story
-
+- Кроссфункциональность (T-Shape)
 
 ## Материалы по теме
 
@@ -315,9 +315,12 @@ PO формирует долгосрочный план (план релиза) 
 - [Асхат Уразбаев:: Обзор методологии Scrum](http://citforum.ru/SE/project/scrum/)
 
 Книги:
+- [«Руководство по Scrum 2020», Кен Швабер и Джефф Сазерленд](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf)
 - [«Заметки с передовой», Хенрик Книберг](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)
 - [«Scrum и Kanban: выжимаем максимум», Хенрик Книберг и Маттиас Скарин](http://scrum.org.ua/wp-content/uploads/ScrumAndKanbanRuFinal.pdf)
 - «Scrum. Гибкая разработка ПО», Макйл Кон
 
 Видео:
 - [Agile и Scrum на пальцах / О ГИБКИХ методологиях разработки ПО понятным языком](https://www.youtube.com/watch?v=cDvZaXzQezs)
+- [Просто о Scrum (Гибкое управление проектами)](https://www.youtube.com/watch?v=mockcEwNBbs)
+- [Канал Scrum Ukraine](https://www.youtube.com/c/ScrumUkraine)

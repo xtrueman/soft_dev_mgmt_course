@@ -19,7 +19,7 @@
 
 ## Видео:
 - [Канал ScrumTrek](https://www.youtube.com/c/ScrumTrekOfficial)
-
+- [Agile, scrum, kanban и управление проектами / Из программиста в Agile Coach / Всё о KANBAN](https://www.youtube.com/watch?v=sGvLjXSyxUM)
 
 ## Литература:
 
