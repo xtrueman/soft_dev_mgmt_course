@@ -18,7 +18,9 @@
 - [Методологии разработки ПО: Agile](https://gb.ru/posts/methodologies_agile)
 
 ## Видео:
+
 - [Канал ScrumTrek](https://www.youtube.com/c/ScrumTrekOfficial)
+- [Канал Neogenda: Agile, Scrum, Kanban](https://www.youtube.com/c/RealResult/playlists)
 - [Agile, scrum, kanban и управление проектами / Из программиста в Agile Coach / Всё о KANBAN](https://www.youtube.com/watch?v=sGvLjXSyxUM)
 
 ## Литература:
@@ -39,6 +41,7 @@
 - [Skillbox: Управление проектами](https://skillbox.ru/course/itproject/)
 - [Skillbox: Профессия Менеджер проектов](https://skillbox.ru/course/profession-project-manager-pro/)
 - [GeekBrains: Программы обучения по управлению](https://gb.ru/courses/management)
+- [Scrumtrek: Онлайн-курсы по Agile и Scrum](https://scrumtrek.online/home)
 - [Udemy: Vladislav Mislavskii: Управление проектами (2021)](https://www.udemy.com/course/projectmanagment_skillfocus/) ([слив](https://cloud.mail.ru/public/TVcD/L5Cxe9jpb/))
 - [Udemy: Управление проектами и продуктами (базовый уровень) (2019)](https://www.udemy.com/course/project_product/) ([слив1](https://clck.ru/aoAZy),
    [слив2](https://cloud.mail.ru/public/3z5s/36diudZMG))
