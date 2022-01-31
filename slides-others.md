@@ -1,4 +1,4 @@
-# Презентации
+# Чужие презентации
 
 - [Процессы разработки программного обеспечения](https://www.slideshare.net/balm/ss-8301539)
 - [Теория и практика методологии разработки Scrum](https://www.slideshare.net/VladVolkoff/scrum-pactic)
