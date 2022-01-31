@@ -2,7 +2,7 @@
 
 ## Инструменты
 
-- Доски: [Kaiten](https://mrpo.kaiten.io/) (рекомендовано!), [YouTrack](https://youtrack.jetbrains.com/i), [Trello](https://trello.com/ru)
+- Доски: [Kaiten](https://mrpo.kaiten.io/) (рекомендовано!), [YouTrack](https://youtrack.jetbrains.com/), [Trello](https://trello.com/ru)
 - [EasyRetro](https://easyretro.io/)
 - [planIT poker](https://www.planitpoker.com/) или [Planning Poker](https://www.planningpoker.com/)
 - [Miro](https://miro.com/) — онлайн-доска для командной работы
