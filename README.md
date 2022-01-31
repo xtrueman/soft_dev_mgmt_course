@@ -4,8 +4,7 @@
 
 - [Kaiten](https://mrpo.kaiten.io/)
 - [EasyRetro](https://easyretro.io/)
-- [Planning Poker](https://www.planningpoker.com/)
-- [planIT poker](https://www.planitpoker.com/)
+- [planIT poker](https://www.planitpoker.com/) или [Planning Poker](https://www.planningpoker.com/)
 - [Miro](https://miro.com/) — онлайн-доска для командной работы
 
 ## Темы:
