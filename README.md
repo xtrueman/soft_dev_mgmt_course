@@ -5,7 +5,7 @@
 - Доски: [Kaiten](https://mrpo.kaiten.io/) (рекомендовано!), [YouTrack](https://www.jetbrains.com/youtrack/download/get_youtrack.html), [Trello](https://trello.com/ru), JIRA
 - [EasyRetro](https://easyretro.io/)
 - [planIT poker](https://www.planitpoker.com/) или [Planning Poker](https://www.planningpoker.com/)
-- [Miro](https://miro.com/) — онлайн-доска для командной работы
+- [Miro](https://miro.com/) — онлайн-доска для рисования командной работы (для любого проектирования и аналитики)
 
 ## Темы:
 
