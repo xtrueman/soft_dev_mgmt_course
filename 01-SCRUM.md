@@ -356,6 +356,7 @@ Scrum Team определяет наиболее полезные для пов�
 Статьи:
 - [scrumtrek:: Scrum: что это и зачем нужно](https://scrumtrek.ru/blog/agile-scrum/3777/scrum-chto-eto/)
 - [Unusual Concepts: статьи по Scrum](https://blog.unusual-concepts.ru/agilebasics-scrum/)
+- [BrainRain: Agile Scrum Blog](https://brainrain.com.ua/category/blog/)
 - [Асхат Уразбаев:: Обзор методологии Scrum](http://citforum.ru/SE/project/scrum/)
 - [Понимание относительных оценок в Agile. Даёшь Story Points!](https://vc.ru/u/370941-sergey-krasavin/285611-ponimanie-otnositelnyh-ocenok-v-agile-daesh-story-points)
 - [User Story — инструкция по применению](https://scrumtrek.ru/blog/product-management/3364/user-story-instruktsiya-po-primeneniyu/)

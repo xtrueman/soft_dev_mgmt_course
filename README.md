@@ -30,6 +30,7 @@
 ## Полезное
 
 - [Как будет выставляться зачёт по предмету](scoring.md)
+- [Возможные проекты](possible-projects.md)
 - [Полезные материалы](resources-and-literature.md)
 
 
