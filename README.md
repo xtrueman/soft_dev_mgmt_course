@@ -10,7 +10,7 @@
 ## Темы:
 
 0. [Agile](00-Agile.md)
-1. [SCRUM](01-SCRUM.md)
+1. [SCRUM](01-SCRUM.md) ([презентация](slides/01-SCRUM.pptx))
 2. [Kanban](02-Kanban.md)
 3. [Lean](03-Lean.md)
 4. [Водопадные модели разработки](04-Waterfall.md)
