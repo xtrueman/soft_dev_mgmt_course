@@ -74,6 +74,8 @@
 	- [User Story Mapping – инструкция по применению](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
 - [Подробный гайд по дизайн-мышлению от лаборатории Wonderfull](https://lab-w.com/tools)
 - [Центр дизайн мышления](https://dtcenter.ru/)
+- [Введение в Customer Development](https://vc.ru/marketing/53090-vvedenie-v-customer-development)
+- [CustDev: инструкция по применению](https://vc.ru/life/82333-custdev-instrukciya-po-primeneniyu)
 
 
 ## Видео
@@ -81,6 +83,7 @@
 - [Академия Яндекса: канал "Управление проектами и продуктом"](https://www.youtube.com/channel/UCQmAuu6V3kSzdIfrszr5iKg)
 	- [001. Школа менеджмента — Как создавать полезные продукты. Илья Воробьев](https://www.youtube.com/watch?v=s3fNhgt7gBc)
 	- [002. Школа менеджмента — О продуктовом мышлении. Юрий Подорожный](https://www.youtube.com/watch?v=m8h_KsDovRw)
+	- [004. Школа менеджмента — Продуктовые исследования. Иван Замесин](https://www.youtube.com/watch?v=0MRJVoiqpXg)
 
 
 ## Курсы
