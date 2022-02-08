@@ -9,16 +9,15 @@
 
 ## Темы:
 
-0. [Agile](00-Agile.md)
-1. [SCRUM](01-SCRUM.md) ([презентация](slides/01-SCRUM.pptx))
-2. [Kanban](02-Kanban.md)
-3. [Lean](03-Lean.md)
-4. [Водопадные модели разработки](04-Waterfall.md)
-5. [Управление продуктом](05-Product-Management.md)
+0. [Agile](Agile.md)
+1. [SCRUM](SCRUM.md) ([презентация](slides/01-SCRUM.pptx))
+2. [Управление продуктом](Product-Management.md)
 	- customer development
-6. Управление проектом
+3. [Lean Startup](Lean-Startup.md)
+4. [Kanban](Kanban.md)
+6. Управление людьми
 7. Инженерные практики
-8. Управление людьми
+6. Управление проектом / [Водопадные модели разработки](Waterfall.md)
 
 ## Практические работы
 
