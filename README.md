@@ -10,8 +10,8 @@
 ## Темы:
 
 0. [Agile](Agile.md)
-1. [SCRUM](SCRUM.md) ([презентация](slides/01-SCRUM.pptx))
-2. [Управление продуктом](Product-Management.md)
+1. [SCRUM](SCRUM.md) ([презентация](slides/SCRUM.pptx))
+2. [Управление продуктом](Product-Management.md) ([презентация](slides/Product.pptx))
 	- customer development
 	- дизайн-мышление
 3. [Lean Startup](Lean-Startup.md)
