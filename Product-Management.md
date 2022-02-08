@@ -72,10 +72,27 @@
 - [ScrumTrek: Продуктовый менеджмент](https://scrumtrek.ru/blog/tag/product-management/)
 	- [История появления и развития Product Management](https://scrumtrek.ru/blog/product-management/7082/product-management-history/)
 	- [User Story Mapping – инструкция по применению](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
+- [Эссе и образовательные симуляторы про продакт-менеджмент, продуктовую аналитику, маркетинг и рост](https://gopractice.ru/)
+	- [Product/market fit. Что это такое? Как измерить PMF с помощью метрик?](https://gopractice.ru/product-market-fit/)
+
+
+### Дизайн-мышление
+
+
 - [Подробный гайд по дизайн-мышлению от лаборатории Wonderfull](https://lab-w.com/tools)
 - [Центр дизайн мышления](https://dtcenter.ru/)
+
+### Customer Development
+
 - [Введение в Customer Development](https://vc.ru/marketing/53090-vvedenie-v-customer-development)
 - [CustDev: инструкция по применению](https://vc.ru/life/82333-custdev-instrukciya-po-primeneniyu)
+- [Виды пользовательских исследований: глубинное интервью, часть первая](https://vc.ru/marketing/227372-vidy-polzovatelskih-issledovaniy-glubinnoe-intervyu-chast-pervaya)
+
+
+## Книги
+
+- [Спроси маму. Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут?](https://www.ozon.ru/product/sprosi-mamu-kak-obshchatsya-s-klientami-i-podtverdit-pravotu-svoey-biznes-idei-esli-vse-krugom-vrut-140446253/)
+
 
 
 ## Видео

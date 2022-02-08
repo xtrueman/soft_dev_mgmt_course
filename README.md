@@ -13,6 +13,7 @@
 1. [SCRUM](SCRUM.md) ([презентация](slides/01-SCRUM.pptx))
 2. [Управление продуктом](Product-Management.md)
 	- customer development
+	- дизайн-мышление
 3. [Lean Startup](Lean-Startup.md)
 4. [Kanban](Kanban.md)
 6. Управление людьми
