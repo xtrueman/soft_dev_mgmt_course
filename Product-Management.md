@@ -101,6 +101,7 @@
 	- [001. Школа менеджмента — Как создавать полезные продукты. Илья Воробьев](https://www.youtube.com/watch?v=s3fNhgt7gBc)
 	- [002. Школа менеджмента — О продуктовом мышлении. Юрий Подорожный](https://www.youtube.com/watch?v=m8h_KsDovRw)
 	- [004. Школа менеджмента — Продуктовые исследования. Иван Замесин](https://www.youtube.com/watch?v=0MRJVoiqpXg)
+- [Илья Красинский: как пристрелить плохие гипотезы](https://www.youtube.com/watch?v=HU4x9UtkmMU)
 
 
 ## Курсы
