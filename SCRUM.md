@@ -363,6 +363,7 @@ Scrum Team определяет наиболее полезные для пов�
 - [Понимание относительных оценок в Agile. Даёшь Story Points!](https://vc.ru/u/370941-sergey-krasavin/285611-ponimanie-otnositelnyh-ocenok-v-agile-daesh-story-points)
 - [User Story — инструкция по применению](https://scrumtrek.ru/blog/product-management/3364/user-story-instruktsiya-po-primeneniyu/)
 - [T-Shaped подход: разные компетенции](https://tilda.education/articles-how-to-be-t-shaped-person)
+- [Agile-подход в государственном управлении](https://gosagile.cdto.ranepa.ru/1_1)
 
 Книги:
 - [«Руководство по Scrum 2020», Кен Швабер и Джефф Сазерленд](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Russian.pdf)

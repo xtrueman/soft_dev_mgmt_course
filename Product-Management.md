@@ -74,6 +74,7 @@
 	- [User Story Mapping – инструкция по применению](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
 - [Эссе и образовательные симуляторы про продакт-менеджмент, продуктовую аналитику, маркетинг и рост](https://gopractice.ru/)
 	- [Product/market fit. Что это такое? Как измерить PMF с помощью метрик?](https://gopractice.ru/product-market-fit/)
+- [Минимально жизнеспособный продукт — что такое MVP проекта и продукта](https://leadstartup.ru/db/mvp)
 
 
 ### Дизайн-мышление
@@ -87,6 +88,14 @@
 - [Введение в Customer Development](https://vc.ru/marketing/53090-vvedenie-v-customer-development)
 - [CustDev: инструкция по применению](https://vc.ru/life/82333-custdev-instrukciya-po-primeneniyu)
 - [Виды пользовательских исследований: глубинное интервью, часть первая](https://vc.ru/marketing/227372-vidy-polzovatelskih-issledovaniy-glubinnoe-intervyu-chast-pervaya)
+- [11 исследовательских методов для продакт-менеджеров](https://academy.yandex.ru/posts/11-issledovatelskikh-metodov-dlya-prodakt-menedzherov)
+- [Пошаговый рецепт приготовления интервью](https://medium.com/@ekaterinayanke/%D0%BF%D0%BE%D1%88%D0%B0%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82-%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E-975afae5c166)
+- [Как научиться проводить пользовательские интервью](https://clevio.ai/lesson/hGxC3qR1/)
+
+## Продуктовые исследования
+
+- [Как организовать юзабилити-тестирование сайта](https://www.nic.ru/info/blog/usability-site-testing/)
+- [Методы Юзабилити Тестирования Сайта](https://topuser.pro/uspeshnoe-yuzabiliti-testirovanie-saita-metodi/)
 
 
 ## Книги
@@ -101,6 +110,7 @@
 	- [001. Школа менеджмента — Как создавать полезные продукты. Илья Воробьев](https://www.youtube.com/watch?v=s3fNhgt7gBc)
 	- [002. Школа менеджмента — О продуктовом мышлении. Юрий Подорожный](https://www.youtube.com/watch?v=m8h_KsDovRw)
 	- [004. Школа менеджмента — Продуктовые исследования. Иван Замесин](https://www.youtube.com/watch?v=0MRJVoiqpXg)
+	- [Инструменты поиска и проверки гипотез — Михаил Высоковский](https://www.youtube.com/watch?v=1staorzGRXU)
 - [Илья Красинский: как пристрелить плохие гипотезы](https://www.youtube.com/watch?v=HU4x9UtkmMU)
 
 
