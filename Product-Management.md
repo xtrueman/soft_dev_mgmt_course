@@ -80,6 +80,7 @@
 - [Как организовать юзабилити-тестирование сайта](https://www.nic.ru/info/blog/usability-site-testing/)
 - [Методы Юзабилити Тестирования Сайта](https://topuser.pro/uspeshnoe-yuzabiliti-testirovanie-saita-metodi/)
 - [DIY. Гайд по методам продуктовых исследований: качественные, количественные, UX-исследования](https://sense23.com/post/diy-gajd-po-metodam-produktovyh-issledovanij-kachestvennye-kolichestvennye-ux-issledovaniya)
+- [Гайд по продуктовым исследованиям: опыт SkyEng, Carrot quest, Miro и Дом.ru](https://www.carrotquest.io/blog/product-research/)
 
 ## Книги
 
