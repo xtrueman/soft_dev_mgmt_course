@@ -81,6 +81,9 @@
 - [Методы Юзабилити Тестирования Сайта](https://topuser.pro/uspeshnoe-yuzabiliti-testirovanie-saita-metodi/)
 - [DIY. Гайд по методам продуктовых исследований: качественные, количественные, UX-исследования](https://sense23.com/post/diy-gajd-po-metodam-produktovyh-issledovanij-kachestvennye-kolichestvennye-ux-issledovaniya)
 - [Гайд по продуктовым исследованиям: опыт SkyEng, Carrot quest, Miro и Дом.ru](https://www.carrotquest.io/blog/product-research/)
+- [Роль и виды качественных исследований в продуктовом дизайне](https://karelin.cc/articles/rol-i-vidu-kachestvennyh-issledovanii-v-productovom-dizaine)
+- [Обзор 20 методов UX-исследований от NNGroup: какой метод выбрать и когда](https://ux-journal.ru/top-20-metodov-ux-ui-issledovanij-ot-nngroup.html)
+
 
 ## Книги
 
