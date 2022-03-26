@@ -23,32 +23,42 @@ Customer Lead Time
 - [Scrumtrek: статьи по Kanban](https://scrumtrek.ru/blog/kanban/)
 - [Unusual Concepts: статьи по Kanban](https://blog.unusual-concepts.ru/agilebasics-kanban/)
 - [Kanban Russia](https://kanbanguide.ru/) — статьи про Kanban
-- [Кто такой Service Delivery Manager в Канбане?](https://scrumtrek.ru/blog/kanban/1392/kto-takoj-service-delivery-manager-v-kanbane/)
 - [Понимание вашего процесса как процесса коллективного накопления знаний](https://kanbanguide.ru/ponimanie-vashego-proczessa-kak-proczessa-kollektivnogo-nakopleniya-znanij/)
 - [Понимание вашего процесса как процесса Коллективного накопления знаний – Часть 1 (рецепты)](https://kanbanguide.ru/ponimanie-vashego-proczessa-kak-proczessa-kollektivnogo-nakopleniya-znanij-chast-1-reczepty/)
 - [Что такое Канбан-метод – максимально коротко](https://scrumtrek.ru/blog/kanban/1360/chto-takoe-kanban-metod-maksimalno-korotko/)
 - [Чем Канбан отличается от Scrum, и причем тут Agile](https://scrumtrek.ru/blog/kanban/5796/kanban-scrum-agile-otlichiya/)
 - [Понимание вашего процесса как процесса коллективного накопления знаний](https://kanbanguide.ru/ponimanie-vashego-proczessa-kak-proczessa-kollektivnogo-nakopleniya-znanij/)
-- [Понимание вашего процесса как процесса Коллективного накопления знаний – Часть 1 (рецепты)](https://kanbanguide.ru/ponimanie-vashego-proczessa-kak-proczessa-kollektivnogo-nakopleniya-znanij-chast-1-reczepty/)
 - [Практика визуализации, Алексей Пименов](https://kanbanguide.ru/aiovg_videos/praktika-viuzalizacziya-aleksej-pimenov/)
-
-### Материалы тренингов
-
-- [Доска в Miro с тренинга Kanban System Design](https://miro.com/app/board/o9J_l0nW5i4=/)
-- [Игра-симуляция Kanban](http://www.kanbanboardgame.com/)
+- [Что такое Kanban? Гайд от Atlassian](https://www.atlassian.com/ru/agile/kanban)
+- [Канбан в примерах](https://worksection.com/blog/kanban-examples.html)
+- 20 классных примеров канбан-досок: [часть 1](https://vc.ru/services/349635-20-klassnyh-primerov-kanban-dosok), [Примеры канбан-досок (часть 2)](https://vc.ru/services/350256-primery-kanban-dosok-chast-2)
+- [Канбан-доска — это не то, что вы думаете](https://scrumtrek.ru/blog/kanban/4827/kanban-doska/)
+- [Зачем нужна канбан доска 🎞, как ее создать и получить пользу для проекта + примеры досок](https://leadstartup.ru/db/kanban-board])
+- [Кто такой Service Delivery Manager в Канбане?](https://scrumtrek.ru/blog/kanban/1392/kto-takoj-service-delivery-manager-v-kanbane/)
+- [Система канбан. В чем суть](https://businessrevisor.ru/2018/12/kanban-general/)
+- [Что такое канбан и чем он полезен?](https://worksection.com/blog/kanban.html)
 
 
 ### Видео
 
+- [Kanban в МТС](https://www.youtube.com/watch?v=PIl33p9TxY0)
 - [Про KANBAN простыми словами / Эффективная работа с беклогом](https://www.youtube.com/watch?v=1_Zti9v5ugA)
 - [Канбан-метод для команд / Алексей Пименов](https://www.youtube.com/watch?v=vkDJ49zhQkg)
 - [Алексей Пименов. Kanban - это не то, что вы привыкли о нем думать](https://www.youtube.com/watch?v=lrDLbp0XeFA)
-- [Канбан - отличная альтернатива Scrum](https://www.youtube.com/watch?v=c1Vl7geFjl0)
 - [Зачем Канбан-метод нужен руководителю](https://leankanban.ru/kanbanprosto)
 - [Что такое Канбан-метод - максимально коротко](https://www.youtube.com/watch?v=hbqrzM0fZTA)
 - [Kanban. Метод управления разработкой ПО](https://www.youtube.com/watch?v=v8wVl_nuPrY)
 - [Канбан. Точно вовремя. Бережливое производство. Управление изменениями.](https://www.youtube.com/watch?v=D6iqUplB3IY)
 - [Agile, scrum, kanban и управление проектами / Из программиста в Agile Coach / Всё о KANBAN](https://www.youtube.com/watch?v=sGvLjXSyxUM)
+- [Канбан: принципы и мифы. С Алексеем Пименовым.](https://www.youtube.com/watch?v=iVUeTetYcvY)
+- [Канбан - отличная альтернатива Scrum](https://www.youtube.com/watch?v=c1Vl7geFjl0)
+- [Канбан от канала "Коротко и ясно"](https://www.youtube.com/watch?v=JM9FNzuQLC0)
+- [Алексей Пименов. Kanban - это не то, что вы привыкли о нем думать](https://www.youtube.com/watch?v=lrDLbp0XeFA)
+- [Канбан метод простыми словами. Артур Нек.](https://www.youtube.com/watch?v=OgGSNGHEguk)
+
+### Книги
+
+- [Канбан, краткое руководство. Дэвид Дж. Андерсон, Энди Кармайкл](https://kanbanguide.ru/wp-content/uploads/2018/02/Essential-Kanban-Condensed-v1.0.01.02-_rus.pdf)
 
 
 ## Игра getKanban
