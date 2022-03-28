@@ -37,11 +37,17 @@ Customer Lead Time
 - [Кто такой Service Delivery Manager в Канбане?](https://scrumtrek.ru/blog/kanban/1392/kto-takoj-service-delivery-manager-v-kanbane/)
 - [Система канбан. В чем суть](https://businessrevisor.ru/2018/12/kanban-general/)
 - [Что такое канбан и чем он полезен?](https://worksection.com/blog/kanban.html)
+- [Канбан-метод: не грузите меня вашей теорией](https://habr.com/ru/post/558616/)
+- [Kanban.club. Кратко и по делу о Kanban, Scrum, LeSS, SAFe и все, что может пригодиться в работе менеджеру](http://kanban.club/)
+- [Что такое WIP-лимит. Конспект подкаста Kanban Talks](https://kaiten.ru/blog/what-is-wip-limit/)
+- [Что такое CFD диаграмма: как ее читать, что означают для проекта изменения на диаграмме накопительного проекта](https://leadstartup.ru/db/cfddiagramm)
+- [Как провести Канбан-митинг (Kanban meeting)?](https://neogenda.com/articles/kak-provesti-kanban-miting-kanban-meeting)
 
 
 ### Видео
 
 - [Kanban в МТС](https://www.youtube.com/watch?v=PIl33p9TxY0)
+- [Канбан метод простыми словами. Артур Нек.](https://www.youtube.com/watch?v=OgGSNGHEguk)
 - [Про KANBAN простыми словами / Эффективная работа с беклогом](https://www.youtube.com/watch?v=1_Zti9v5ugA)
 - [Канбан-метод для команд / Алексей Пименов](https://www.youtube.com/watch?v=vkDJ49zhQkg)
 - [Алексей Пименов. Kanban - это не то, что вы привыкли о нем думать](https://www.youtube.com/watch?v=lrDLbp0XeFA)
@@ -54,7 +60,6 @@ Customer Lead Time
 - [Канбан - отличная альтернатива Scrum](https://www.youtube.com/watch?v=c1Vl7geFjl0)
 - [Канбан от канала "Коротко и ясно"](https://www.youtube.com/watch?v=JM9FNzuQLC0)
 - [Алексей Пименов. Kanban - это не то, что вы привыкли о нем думать](https://www.youtube.com/watch?v=lrDLbp0XeFA)
-- [Канбан метод простыми словами. Артур Нек.](https://www.youtube.com/watch?v=OgGSNGHEguk)
 
 ### Книги
 
