@@ -31,7 +31,7 @@ Customer Lead Time
 - [Практика визуализации, Алексей Пименов](https://kanbanguide.ru/aiovg_videos/praktika-viuzalizacziya-aleksej-pimenov/)
 - [Что такое Kanban? Гайд от Atlassian](https://www.atlassian.com/ru/agile/kanban)
 - [Канбан в примерах](https://worksection.com/blog/kanban-examples.html)
-- 20 классных примеров канбан-досок: [часть 1](https://vc.ru/services/349635-20-klassnyh-primerov-kanban-dosok), [Примеры канбан-досок (часть 2)](https://vc.ru/services/350256-primery-kanban-dosok-chast-2)
+- 20 классных примеров канбан-досок: [часть 1](https://vc.ru/services/349635-20-klassnyh-primerov-kanban-dosok), [(часть 2)](https://vc.ru/services/350256-primery-kanban-dosok-chast-2)
 - [Канбан-доска — это не то, что вы думаете](https://scrumtrek.ru/blog/kanban/4827/kanban-doska/)
 - [Зачем нужна канбан доска 🎞, как ее создать и получить пользу для проекта + примеры досок](https://leadstartup.ru/db/kanban-board])
 - [Кто такой Service Delivery Manager в Канбане?](https://scrumtrek.ru/blog/kanban/1392/kto-takoj-service-delivery-manager-v-kanbane/)
