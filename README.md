@@ -11,14 +11,15 @@
 
 0. [Agile](Agile.md)
 1. [SCRUM](SCRUM.md) ([презентация](slides/SCRUM.pptx))
-2. [Управление продуктом](Product-Management.md) ([презентация](slides/Product.pptx))
+2. [Управление продуктом: продуктовые исследования](Product-Management.md) ([презентация](slides/Product.pptx))
 	- customer development
 	- дизайн-мышление
-3. [Lean Startup](Lean-Startup.md)
-4. [Kanban](Kanban.md)
+3. [Kanban](Kanban.md)
+4. [Управление продуктом: продуктовые метрики](Product-Metrics.md) ([презентация](slides/Product-Metrics.pptx))
+5. [Lean Startup](Lean-Startup.md)
 6. Управление людьми
 7. Инженерные практики
-6. Управление проектом / [Водопадные модели разработки](Waterfall.md)
+8. Управление проектом / [Водопадные модели разработки](Waterfall.md)
 
 ## Практические работы
 
