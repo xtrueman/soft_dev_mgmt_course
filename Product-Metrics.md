@@ -42,7 +42,7 @@ Cost Per Install (CPI) — это цена приобретения нового
 
 CPI рассчитывается путем деления расходов на рекламу (за определенный период времени) на количество новых привлеченных пользователей за тот же период.
 
-<img src="https://render.githubusercontent.com/render/math?math=CPI = \frac{Общая стоимость маркетинговой компании}{количество новых пользователей привлеченных в ходе этой компании}">
+<img src="https://render.githubusercontent.com/render/math?math=CPI = \frac{Marketing costs}{New users}">
 
 
 
