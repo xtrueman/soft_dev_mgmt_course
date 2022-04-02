@@ -44,6 +44,9 @@ CPI рассчитывается путем деления расходов на
 
 <img src="https://render.githubusercontent.com/render/math?math=CPI = \frac{MarketingCosts}{NewUsers}">
 
+Нужно понимать, что конкретные пользователи пришли с использованием именно этого канала привлечения.
+
+#### Средний доход на пользователя (ARPU или Average Revenue Per User)
 
 
 ## Материалы
@@ -52,6 +55,18 @@ CPI рассчитывается путем деления расходов на
 ### Статьи / сайты
 
 - [Базовые продуктовые метрики](https://vc.ru/marketing/314555-bazovye-produktovye-metriki)
+- [Продуктовые метрики: какие они бывают и как ими пользоваться?](https://vc.ru/marketing/310152-produktovye-metriki-kakie-oni-byvayut-i-kak-imi-polzovatsya)
+- [Как выбрать метрики для продукта: разбираем на примерах](https://skillbox.ru/media/management/kak_vybrat_metriki_dlya_produkta_razbiraem_na_primerakh/)
+
+#### LTV
+
+- [Показатель Lifetime value (LTV) для SaaS-компаний: исчерпывающее руководство](https://yagla.ru/blog/analitika/pokazatel-lifetime-value-ltv-dlya-saaskompaniy-ischerpyvayushchee-rukovodstvo/)
+- [Важен каждый: почему нужно следить за полной ценностью клиентов](https://www.thinkwithgoogle.com/intl/ru-ru/marketing-strategies/data-and-measurement/ltv/)
+- [Что такое LTV, CLV, CLTV?](https://direct-settings.ru/blog/cho-takoe-ltv-clv-cltv/)
+
+#### Churn
+
+- [Главные метрики. Churn Rate](https://www.devtodev.com/education/articles/ru/211/glavnie-metriki-churn-rate)
 
 
 ### Видео
