@@ -30,10 +30,12 @@
 - [Инвестиции в венчурные фонды: что учесть учредителям фонда и на что обратить внимание LP](https://www.buzko.legal/content-ru/investicii-v-venchurnye-fondy-chto-uchest-uchreditelyam-fonda-i-na-chto-obratit-vnimanie-lp)
 - [Этажи венчурных инвестиций: как фонд работает с воронкой стартапов](https://vc.ru/finance/89329-etazhi-venchurnyh-investiciy-kak-fond-rabotaet-s-voronkoy-startapov)
 
+
 ### Книги
 
 - [Бизнес с нуля. Метод Lean Startup для быстрого тестирования идей и выбора бизнес-модели (суперобложка)](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-225229548/)
 - [Краткое изложение книги](https://habr.com/ru/company/makeright/blog/299560/)
+
 
 ### Видео
 
@@ -42,3 +44,13 @@
 	- [Бизнес-модели для стартапа. Примеры бизнес моделей](https://www.youtube.com/watch?v=YG_J4V-7X8o)
 - [Дмитрий Калаев "Ценностное предложение"](https://www.youtube.com/watch?v=813vqZbWa-U)
 - [Бизнес-модель Lean Canvas: шаблон Эш Маурья (за 8 минут)](https://www.youtube.com/watch?v=6lP0gtIGaco)
+
+
+### Шаблоны Lean Canvas
+
+- [Miro official template](https://miro.com/templates/lean-canvas/)
+- [Miro template 1](https://miro.com/app/board/o9J_lLR0k1U=/)
+- [Miro template 1](https://miro.com/app/board/uXjVOfLPR7I=/)
+- [google spreadsheets template](https://docs.google.com/spreadsheets/d/1vMRlnenuxvIR0OSsplcG8rKc5vy4nrjXLz06peDfAhw/edit#gid=0)
+- [XLS template](https://neoschronos.com/assets/lean-canvas.xls)
+- [XLSX template](https://neoschronos.com/assets/lean-canvas.xlsx)
