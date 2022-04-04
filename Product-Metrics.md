@@ -71,5 +71,5 @@ CPI рассчитывается путем деления расходов на
 
 ### Видео
 
-- 
-
+- [Метрики стартапа и экономика продукта](https://www.youtube.com/watch?v=xJwqY6uJL_s)
+- [ФРИИ: Интернет-предпринимательство 2015 — плейлист](https://www.youtube.com/playlist?list=PLER1KAGRKiYRWhDQQpAXyMtf_7sGth3D5)
