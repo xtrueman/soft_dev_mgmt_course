@@ -57,6 +57,8 @@ CPI рассчитывается путем деления расходов на
 - [Базовые продуктовые метрики](https://vc.ru/marketing/314555-bazovye-produktovye-metriki)
 - [Продуктовые метрики: какие они бывают и как ими пользоваться?](https://vc.ru/marketing/310152-produktovye-metriki-kakie-oni-byvayut-i-kak-imi-polzovatsya)
 - [Как выбрать метрики для продукта: разбираем на примерах](https://skillbox.ru/media/management/kak_vybrat_metriki_dlya_produkta_razbiraem_na_primerakh/)
+- [Best SaaS Startup Metrics Resources](https://ninan99.medium.com/best-saas-startup-finance-metrics-resources-596a6a1b2eb9)
+
 
 #### LTV
 
@@ -72,4 +74,3 @@ CPI рассчитывается путем деления расходов на
 ### Видео
 
 - [Метрики стартапа и экономика продукта](https://www.youtube.com/watch?v=xJwqY6uJL_s)
-- [ФРИИ: Интернет-предпринимательство 2015 — плейлист](https://www.youtube.com/playlist?list=PLER1KAGRKiYRWhDQQpAXyMtf_7sGth3D5)

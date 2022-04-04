@@ -21,6 +21,8 @@
 - [Что такое бизнес-модель, какие есть типы бизнес-моделей, как выбрать свою бизнес-модель](https://leadstartup.ru/db/business-model)
 - [Бизнес-модель Canvas](https://finswin.com/projects/metody/model-canvas.html)
 - [Венчурные фонды в России и крупнейшие Фонды](https://equity.today/venchurnye-fondy-v-rossii.html)
+- [Бережливый стартап](https://leadstartup.ru/app/courses/lean-startup/berezhlivyi-startap)
+- [Lean Canvas: как сформировать и что учесть](https://ru.wiki.rademade.com/lean-canvas)
 
 
 #### Инвестиции в стартапы
