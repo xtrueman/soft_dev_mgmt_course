@@ -28,6 +28,7 @@
 2. [Демо первого спринта и ретроспектива по нему](lab-02-scrum-demo-and-retro.md)
 3. [Продуктовое исследование](lab-03-product-research.md)
 4. [Переход со Scrum на Kanban](lab-04-switch-to-kanban.md)
+5. [Ревью сервиса поставки (Kanban)](lab-05-kanban-service-review.md)
 
 ## Полезное
 
