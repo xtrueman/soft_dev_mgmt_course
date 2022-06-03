@@ -17,6 +17,7 @@
 3. [Kanban](Kanban.md) ([презентация](slides/Kanban.pptx?raw=true))
 4. [Lean Startup](Lean-Startup.md) ([презентация](slides/LeanStartup.pptx?raw=true))
 5. [Управление продуктом: продуктовые метрики](Product-Metrics.md) ([презентация](slides/Product-Metrics.pptx?raw=true))
+6. [Unit-экономика и продуктовые метрики](Product-Metrics.md) ([презентация 1](slides/Unit-economics.pptx?raw=true), [презентация 2](slides/Product-Metrics.pptx?raw=true))
 6. Управление людьми
 7. Инженерные практики
 8. Управление проектом / [Водопадные модели разработки](Waterfall.md)
