@@ -1,5 +1,6 @@
 # Курсу "Менеджмент разработки ПО" 2022
 
+
 ## Инструменты
 
 - Доски: [Kaiten](https://mrpo.kaiten.io/) (рекомендовано!) ([документация](https://faq-ru.kaiten.site/)), [YouTrack](https://www.jetbrains.com/youtrack/download/get_youtrack.html), [Trello](https://trello.com/ru), JIRA
@@ -37,6 +38,8 @@
 - [Список вопросов на теоретический экзамен](exam-questions.md) (для тех, кто не получает зачёт автоматом)
 - [Возможные проекты](possible-projects.md)
 - [Полезные материалы](resources-and-literature.md)
+- [Список проектов МРПО 2022 весна](https://docs.google.com/spreadsheets/d/1grLjDmutUAM8A8qbs-hNq7VbusXAkEKkGipA5YX1Ngc/edit?usp=sharing)
+- [Список проектов МРПО 2022 осень](https://docs.google.com/spreadsheets/d/1HmCr3e7qbxVH9NQRAzbHwEBXzOD4u8Bx3Tqdewy5Dgc/edit#gid=0)
 
 
 © Валерий Студенников
