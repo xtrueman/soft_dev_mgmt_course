@@ -27,19 +27,7 @@
 
 
 
-## Книги по дизайн-мышлению
-
-- ["Думай как дизайнер. Дизайн-мышление для менеджеров"](https://www.ozon.ru/context/detail/id/30061547/)
-    Книга Жанны Лиедтки и Тима Огилви, которая дает инструкции и шаблоны для управления проектами, описывает инструменты и процедуры на примерах из жизни компаний разных отраслей: Swisscom, Mars, IBM, Hewlett-Packard, Pfizer, Siemens и других. 
-- ["Креативная уверенность. Как высвободить и реализовать свои творческие силы"](https://www.ozon.ru/context/detail/id/32359478/)
-    Книга братьев Тома и Дэвида Келли "Креативная уверенность" — это увлекательное путешествие в мир творчества и гениальных идей. Стоит отметить, что в книге описан не только опыт и обучающие программы d.school и IDEO, но и опыт всех, кто принял идеи дизайн-мышления в свою жизнь и изменил её. 
-- ["Дизайн-мышление в бизнесе. От разработки новых продуктов до проектирования бизнес-моделей"](https://www.ozon.ru/context/detail/id/28282760/)
-    Автор Тим Браун — СЕО компании IDEO, одной из самых успешных в мире дизайн- компаний. На ее счету более 5000 новых продуктов, среди которых компьютерная мышь для Apple, детская зубная щетка для Oral-B, тюбик для зубной пасты Crest. Тим Браун рассказывает о своем опыте и размышляет о том, как метод помогает решать самые разные задачи.
-- "Дизайн-мышление. Методическое руководство по применению человеко-ориентированного подхода к проектированию." от лаборатории Wonderfull
-- ["Как создать продукт, который купят. Метод Lean Customer Development", Синди Альварес](https://www.litres.ru/sindi-alvares/kak-sozdat-produkt-kotoryy-kupyat-metod-lean-custom-64846886/)
-
-
-## Статьи / сайты
+## Управлению продуктом
 
 - [ScrumTrek: Продуктовый менеджмент](https://scrumtrek.ru/blog/tag/product-management/)
 	- [История появления и развития Product Management](https://scrumtrek.ru/blog/product-management/7082/product-management-history/)
@@ -47,6 +35,8 @@
 - [Эссе и образовательные симуляторы про продакт-менеджмент, продуктовую аналитику, маркетинг и рост](https://gopractice.ru/)
 	- [Product/market fit. Что это такое? Как измерить PMF с помощью метрик?](https://gopractice.ru/product-market-fit/)
 - [Минимально жизнеспособный продукт — что такое MVP проекта и продукта](https://leadstartup.ru/db/mvp)
+- [Что такое гипотеза роста продукта](https://leadstartup.ru/db/product-growth-hypothesis)
+- [Frameworks for Product Managers: A collection of resources and techniques to help you create better products.](https://www.product-frameworks.com/)
 
 
 ### Дизайн-мышление
@@ -57,6 +47,7 @@
 
 ### Customer Development
 
+- [Customer development и «кастдев» – что это и в чем разница?](https://yasno.mobi/blog/customer-development-i-kastdev-chto-eto-i-v-chem-raznitsa/)
 - [Введение в Customer Development](https://vc.ru/marketing/53090-vvedenie-v-customer-development)
 - [CustDev: инструкция по применению](https://vc.ru/life/82333-custdev-instrukciya-po-primeneniyu)
 - [Виды пользовательских исследований: глубинное интервью, часть первая](https://vc.ru/marketing/227372-vidy-polzovatelskih-issledovaniy-glubinnoe-intervyu-chast-pervaya)
@@ -88,8 +79,8 @@
 ## Книги
 
 - [Спроси маму. Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут?](https://www.ozon.ru/product/sprosi-mamu-kak-obshchatsya-s-klientami-i-podtverdit-pravotu-svoey-biznes-idei-esli-vse-krugom-vrut-140446253/)
-
-
+- [Создание программного продукта и управление его развитием](https://productdevelopment.tech/)
+- [Как создать продукт, который купят: Метод Lean Customer Development](https://cdn.dasreda.ru/storage-data/c51f50a1-729d-4301-868b-74a724b5574f/kak-sozdat-produkt-kotoryy-kupyat-metod-lean-customer-development-53872.pdf)
 
 ## Видео
 
@@ -104,4 +95,17 @@
 ## Курсы
 
 - [Курс Вани Замесина: как делать продукт, который клиенты будут с удовольствием покупать](https://custdev.zamesin.me/)
+- [Профессия: "Продакт-менеджер"](https://new.productstar.ru/product-manager)
+- [Product Heroes. Продуктовый курс Ильи Красинского](https://heroes.camp/)
 
+
+## Книги по дизайн-мышлению
+
+- ["Думай как дизайнер. Дизайн-мышление для менеджеров"](https://www.ozon.ru/context/detail/id/30061547/)
+    Книга Жанны Лиедтки и Тима Огилви, которая дает инструкции и шаблоны для управления проектами, описывает инструменты и процедуры на примерах из жизни компаний разных отраслей: Swisscom, Mars, IBM, Hewlett-Packard, Pfizer, Siemens и других. 
+- ["Креативная уверенность. Как высвободить и реализовать свои творческие силы"](https://www.ozon.ru/context/detail/id/32359478/)
+    Книга братьев Тома и Дэвида Келли "Креативная уверенность" — это увлекательное путешествие в мир творчества и гениальных идей. Стоит отметить, что в книге описан не только опыт и обучающие программы d.school и IDEO, но и опыт всех, кто принял идеи дизайн-мышления в свою жизнь и изменил её. 
+- ["Дизайн-мышление в бизнесе. От разработки новых продуктов до проектирования бизнес-моделей"](https://www.ozon.ru/context/detail/id/28282760/)
+    Автор Тим Браун — СЕО компании IDEO, одной из самых успешных в мире дизайн- компаний. На ее счету более 5000 новых продуктов, среди которых компьютерная мышь для Apple, детская зубная щетка для Oral-B, тюбик для зубной пасты Crest. Тим Браун рассказывает о своем опыте и размышляет о том, как метод помогает решать самые разные задачи.
+- "Дизайн-мышление. Методическое руководство по применению человеко-ориентированного подхода к проектированию." от лаборатории Wonderfull
+- ["Как создать продукт, который купят. Метод Lean Customer Development", Синди Альварес](https://www.litres.ru/sindi-alvares/kak-sozdat-produkt-kotoryy-kupyat-metod-lean-custom-64846886/)
