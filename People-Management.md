@@ -15,3 +15,7 @@
 - [Управленческие инструменты: 16 концептов на каждый день](https://stratoplan-school.com/wp-content/uploads/2021/11/16-tools-new.pdf)
 - [Инструменты работы с людьми](http://kavaleu.ru/blog/13-podrobno-pro-instrumenty-kotorye-budu-ispolzovat/)
 - [4 стиля руководства и 4 уровня развития сотрудников](https://blog.alevi.ru/management/situacionnoe-liderstvo/)
+
+### Конструктивная конфронтация
+
+- [Управленческие инструменты: 4-фазный алгоритм решения проблем с людьми](https://habr.com/ru/company/stratoplan/blog/211106/)
