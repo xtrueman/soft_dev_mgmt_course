@@ -90,6 +90,7 @@
 	- [004. Школа менеджмента — Продуктовые исследования. Иван Замесин](https://www.youtube.com/watch?v=0MRJVoiqpXg)
 	- [Инструменты поиска и проверки гипотез — Михаил Высоковский](https://www.youtube.com/watch?v=1staorzGRXU)
 - [Илья Красинский: как пристрелить плохие гипотезы](https://www.youtube.com/watch?v=HU4x9UtkmMU)
+- [Jobs To Be Done для цифровых продуктов](https://www.youtube.com/watch?v=1PIJPuEw9aI&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD)
 
 
 ## Курсы
