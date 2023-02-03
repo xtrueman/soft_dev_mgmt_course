@@ -1,6 +1,7 @@
 # Управление продуктом (Product Management)
 
 - User Story Mapping
+    - [FeatureMap: Turn your Product Backlog into a Story Map](https://www.featuremap.co/en)
 - Customer Journey Map
 - Дизайн-мышление
 - Customer Development
@@ -91,7 +92,8 @@
 	- [Инструменты поиска и проверки гипотез — Михаил Высоковский](https://www.youtube.com/watch?v=1staorzGRXU)
 - [Илья Красинский: как пристрелить плохие гипотезы](https://www.youtube.com/watch?v=HU4x9UtkmMU)
 - [Jobs To Be Done для цифровых продуктов](https://www.youtube.com/watch?v=1PIJPuEw9aI&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD)
-
+    - [Курс по JTBD. Мастер-класс #2: интервью по подходу JTBD](https://www.youtube.com/watch?v=UxFNWtaP11A&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD&index=7)
+- [Кнопочное мышление против целостного IT-продукта](https://www.youtube.com/watch?v=iix766-6lqk)
 
 ## Курсы
 
