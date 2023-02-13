@@ -40,6 +40,11 @@
 - [Frameworks for Product Managers: A collection of resources and techniques to help you create better products.](https://www.product-frameworks.com/)
 
 
+### Фичи, приоритеты
+
+- [Фреймворк RICE для приоритизации](https://pmclub.pro/articles/frejmvork-rice-dlya-prioritizacii)
+
+
 ### Дизайн-мышление
 
 
@@ -94,12 +99,14 @@
 - [Jobs To Be Done для цифровых продуктов](https://www.youtube.com/watch?v=1PIJPuEw9aI&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD)
     - [Курс по JTBD. Мастер-класс #2: интервью по подходу JTBD](https://www.youtube.com/watch?v=UxFNWtaP11A&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD&index=7)
 - [Кнопочное мышление против целостного IT-продукта](https://www.youtube.com/watch?v=iix766-6lqk)
+- [Приоритизация функционала. Михаил Карпов, SkyEng](https://www.youtube.com/watch?v=BpXVJByOh8g&t=3264s)
 
 ## Курсы
 
 - [Курс Вани Замесина: как делать продукт, который клиенты будут с удовольствием покупать](https://custdev.zamesin.me/)
 - [Профессия: "Продакт-менеджер"](https://new.productstar.ru/product-manager)
 - [Product Heroes. Продуктовый курс Ильи Красинского](https://heroes.camp/)
+- [https://pmclub.pro/courses/product-management](Управление продуктом: от стратегии до запуска)
 
 
 ## Книги по дизайн-мышлению
