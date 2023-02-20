@@ -38,7 +38,10 @@
 - [Минимально жизнеспособный продукт — что такое MVP проекта и продукта](https://leadstartup.ru/db/mvp)
 - [Что такое гипотеза роста продукта](https://leadstartup.ru/db/product-growth-hypothesis)
 - [Frameworks for Product Managers: A collection of resources and techniques to help you create better products.](https://www.product-frameworks.com/)
-
+- [Про Product Vision и Product Vision Board](https://upravlenie-proektami.ru/pro-product-vision-i-product-vision-board)
+	- [Product Vision Board templates](https://www.smartsheet.com/content/project-vision-templates)
+	- [Product Vision Board template](https://docs.google.com/spreadsheets/d/1y3HgLAALPYsPf7Rt_BAfuAmYPhh0gQN1/edit#gid=243467573)
+- [GIST Планирование — новый способ управления продуктами](https://medium.com/@humanoit/gist-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8-b888fd9ad7de)
 
 ### Фичи, приоритеты
 
@@ -100,6 +103,7 @@
     - [Курс по JTBD. Мастер-класс #2: интервью по подходу JTBD](https://www.youtube.com/watch?v=UxFNWtaP11A&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD&index=7)
 - [Кнопочное мышление против целостного IT-продукта](https://www.youtube.com/watch?v=iix766-6lqk)
 - [Приоритизация функционала. Михаил Карпов, SkyEng](https://www.youtube.com/watch?v=BpXVJByOh8g&t=3264s)
+- [Стратегия продукта: что, зачем и как | Дмитрий Безуглый, Системный подход](https://www.youtube.com/watch?v=682AhnWvb8w)
 
 ## Курсы
 

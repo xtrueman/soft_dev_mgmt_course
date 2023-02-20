@@ -33,8 +33,9 @@
 
 ### Книги
 
-- [Бизнес с нуля. Метод Lean Startup для быстрого тестирования идей и выбора бизнес-модели (суперобложка)](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-225229548/)
-- [Краткое изложение книги](https://habr.com/ru/company/makeright/blog/299560/)
+- [«Бизнес с нуля. Метод Lean Startup для быстрого тестирования идей и выбора бизнес-модели»](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-225229548/)
+	- [Краткое изложение книги](https://habr.com/ru/company/makeright/blog/299560/)
+- [«Rework Бизнес без предрассудков» Джейсон Фрайд и Дэвид Хайнемайер Хенссон](https://www.mann-ivanov-ferber.ru/books/luchiernoctar/rework1/)
 
 
 ### Видео

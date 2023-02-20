@@ -19,3 +19,8 @@
 ### Конструктивная конфронтация
 
 - [Управленческие инструменты: 4-фазный алгоритм решения проблем с людьми](https://habr.com/ru/company/stratoplan/blog/211106/)
+
+
+### Книги
+
+ - [Рейнвотер Д. Как пасти котов. Наставление для программистов, руководящих другими программистами](https://www.piter.com/product/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovodyaschih-drugimi-programmistami-20686e)
