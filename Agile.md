@@ -48,6 +48,11 @@
 - [Ценности Agile 3.х](https://medium.com/smysloteka/%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-agile-3-%D1%85-2c4233e7733b)
 - [Fixed Price vs Time and Materials - какую модель оплаты выбрать?](https://stfalcon.com/ru/blog/post/fixed-price-vs-time-and-materials)
 
+## Книги
+
+- «Постигая Agile. Ценности, принципы, методологии». Дженнифер Грин, Эндрю Стиллмен
+
+
 ## Видео:
 
 - [«Scrum, Agile, Waterfall — что есть что». Наталья Киян](https://www.youtube.com/watch?v=P6RKvbB2Br8)

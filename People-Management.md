@@ -23,4 +23,5 @@
 
 ### Книги
 
- - [Рейнвотер Д. Как пасти котов. Наставление для программистов, руководящих другими программистами](https://www.piter.com/product/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovodyaschih-drugimi-programmistami-20686e)
+ - [«Как пасти котов. Наставление для программистов, руководящих другими программистами» Рейнвотер Д.](https://www.piter.com/product/kak-pasti-kotov-nastavlenie-dlya-programmistov-rukovodyaschih-drugimi-programmistami-20686e)
+- «Agile-менеджмент. Лидерство и управление командами». Аппело Юрген
