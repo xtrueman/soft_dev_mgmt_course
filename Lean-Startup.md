@@ -23,6 +23,11 @@
 - [Венчурные фонды в России и крупнейшие Фонды](https://equity.today/venchurnye-fondy-v-rossii.html)
 - [Бережливый стартап](https://leadstartup.ru/app/courses/lean-startup/berezhlivyi-startap)
 - [Lean Canvas: как сформировать и что учесть](https://ru.wiki.rademade.com/lean-canvas)
+- [20 техник приоритизации в продукте: карта и руководство](https://spark.ru/user/34904/blog/34748/20-tehnik-prioritizatsii-v-produkte-karta-i-rukovodstvo)
+
+#### Бизнес-анализ
+
+- [SWOT-анализ: основные элементы, правила составления, советы + примеры](https://lafounder.com/article/swot-analiz)
 
 
 #### Инвестиции в стартапы

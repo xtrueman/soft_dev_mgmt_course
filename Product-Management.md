@@ -42,11 +42,15 @@
 	- [Product Vision Board templates](https://www.smartsheet.com/content/project-vision-templates)
 	- [Product Vision Board template](https://docs.google.com/spreadsheets/d/1y3HgLAALPYsPf7Rt_BAfuAmYPhh0gQN1/edit#gid=243467573)
 - [GIST Планирование — новый способ управления продуктами](https://medium.com/@humanoit/gist-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8-b888fd9ad7de)
+- [Список лучших ресурсов для продактов 2019](https://docs.google.com/document/d/178BdWBGKrSVUzX46QrWQX7jsaSPB6lgOlLMObDYyx98/edit)
+- [Хочу стать продактом, что ботать, как найти работу без опыта?](https://zamesin.me/ru-wannabe-a-product-manager-2020/)
+- [Product management: your personal guide](https://drive.google.com/file/d/0B1TL-qlEdkpjWU54UmhHZFc3c1IxVVBYcmJaWDVoTEg0SkZF/view?resourcekey=0-mIfbvXCnTk3QxlsxZDr2OQ)
+- [Impact Mapping — инструкция по применению](https://scrumtrek.ru/blog/product-management/3326/impact-mapping-guide/)
+- [Метод персон. Полное описание и шаблон для Figma](https://medium.com/design-pub/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%B4%D0%BB%D1%8F-figma-99fa518fa84e)
 
 ### Фичи, приоритеты
 
 - [Фреймворк RICE для приоритизации](https://pmclub.pro/articles/frejmvork-rice-dlya-prioritizacii)
-
 
 ### Дизайн-мышление
 
@@ -74,8 +78,7 @@
 - [Customer Journey Map: как разработать, как использовать, примеры CJM](https://iq-adv.ru/blog/customer-journey-map/)
 - [Как создать Customer Journey Map: путь клиента шаг за шагом](https://blog.maed.ru/novice/kak-sozdat-customer-journey-map-put-klienta-shag-za-shagom/)
 
-
-## Продуктовые исследования
+### Продуктовые исследования
 
 - [Как организовать юзабилити-тестирование сайта](https://www.nic.ru/info/blog/usability-site-testing/)
 - [Методы Юзабилити Тестирования Сайта](https://topuser.pro/uspeshnoe-yuzabiliti-testirovanie-saita-metodi/)
@@ -85,11 +88,21 @@
 - [Обзор 20 методов UX-исследований от NNGroup: какой метод выбрать и когда](https://ux-journal.ru/top-20-metodov-ux-ui-issledovanij-ot-nngroup.html)
 
 
+### Jobs to Be Done
+
+- [Jobs to Be Done, или всё, что следует знать о желаниях пользователей](https://vc.ru/marketing/73830-jobs-to-be-done-ili-vse-chto-sleduet-znat-o-zhelaniyah-polzovateley)
+- [Силы прогресса JTBD — маркетинг, интервью, методология и примеры](https://leadstartup.ru/db/jtbd-progress-powers)
+- [Гайд по технике Jobs To Be Done (JTBD)](https://scrumtrek.ru/blog/product-management/2492/gajd-po-tehnike-jobs-to-be-done-jtbd/)
+- [Теория Jobs to be Done на человечках](https://habr.com/ru/post/702674/), [Практика Jobs To Be Done на человечках](https://habr.com/ru/post/704812/)
+- [Jobs to Be Done без молочных коктейлей](https://rocketyze.com/base/jobs-to-be-done-bez-molochnyh-koktejlej/)
+
+
 ## Книги
 
 - [Спроси маму. Как общаться с клиентами и подтвердить правоту своей бизнес-идеи, если все кругом врут?](https://www.ozon.ru/product/sprosi-mamu-kak-obshchatsya-s-klientami-i-podtverdit-pravotu-svoey-biznes-idei-esli-vse-krugom-vrut-140446253/)
 - [Создание программного продукта и управление его развитием](https://productdevelopment.tech/)
 - [Как создать продукт, который купят: Метод Lean Customer Development](https://cdn.dasreda.ru/storage-data/c51f50a1-729d-4301-868b-74a724b5574f/kak-sozdat-produkt-kotoryy-kupyat-metod-lean-customer-development-53872.pdf)
+
 
 ## Видео
 

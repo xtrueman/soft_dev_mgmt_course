@@ -36,3 +36,4 @@
 
 - [Руководство к своду знаний по управлению проектами (Руководство PMBOK®). Шестое издание.](https://www.ozon.ru/product/rukovodstvo-k-svodu-znaniy-po-upravleniyu-proektami-rukovodstvo-pmbok-shestoe-izdanie-agile-236536485/)
 - [«Deadline. Роман об управлении проектами» Том ДеМарко](https://www.mann-ivanov-ferber.ru/books/biznesroman/deadline1/)
+- «Мифический человеко-месяц». Фредерик Брукс 
