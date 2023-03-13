@@ -47,6 +47,8 @@
 - [Product management: your personal guide](https://drive.google.com/file/d/0B1TL-qlEdkpjWU54UmhHZFc3c1IxVVBYcmJaWDVoTEg0SkZF/view?resourcekey=0-mIfbvXCnTk3QxlsxZDr2OQ)
 - [Impact Mapping — инструкция по применению](https://scrumtrek.ru/blog/product-management/3326/impact-mapping-guide/)
 - [Метод персон. Полное описание и шаблон для Figma](https://medium.com/design-pub/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%B4%D0%BB%D1%8F-figma-99fa518fa84e)
+- [Шаблон Product Vision Board от Романа Пишлера](https://pcamp.productland.ru/library/article/sablon-product-vision-board-ot-romana-pislera)
+
 
 ### Фичи, приоритеты
 
@@ -64,6 +66,8 @@
 - [Чем отличается контекстная реклама от таргетированной?](https://webmate.kz/chem-otlichaetsya-kontekstnaya-reklama-ot-targetirovannoy)
 - [Как определить рыночную стратегию вашего продукта?](https://vc.ru/marketing/410660-kak-opredelit-rynochnuyu-strategiyu-vashego-produkta)
 - [Анализ конкурентов: методы и план действий](https://2domains.ru/blog/analiz-konkurentov-metody-i-plan-dejstvij)
+- [Анализ конкурентов с примерами](https://uxprice.com/blog/ru/all-articles-ru/analiz-konkurentov-s-primerami/)
+- [Как провести подробный анализ конкурентов (+ шаблон, инструменты и много ссылок)](https://vc.ru/u/943786-andrey-smagin/315358-kak-provesti-podrobnyy-analiz-konkurentov-shablon-instrumenty-i-mnogo-ssylok)
 
 ### Customer Development
 

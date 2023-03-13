@@ -60,8 +60,13 @@ CPI рассчитывается путем деления расходов на
 - [Best SaaS Startup Metrics Resources](https://ninan99.medium.com/best-saas-startup-finance-metrics-resources-596a6a1b2eb9)
 - [Пошаговый алгоритм составления "Иерархии метрик"](https://productstar.ru/tpost/rjry9oh7m1-poshagovii-algoritm-sostavleniya-ierarhi)
 - [Пример составленной иерархии метрик](https://www.mindmeister.com/ru/1369696540?t=LW7q1QV7uz)
+- [Как выбрать метрики для продукта: разбираем на примерах](https://skillbox.ru/media/management/kak_vybrat_metriki_dlya_produkta_razbiraem_na_primerakh/)
+- [Метрика North Star, или как найти Полярную звезду, которая приведет вас к успеху](https://www.carrotquest.io/blog/north-star-metric/)
+
 
 ### Unit-экономика
+
+- [Шпаргалка: ключевые метрики для SaaS-сервисов](https://www.carrotquest.io/blog/shpargalka-metriki-dlya-saas-servisov/)
 
 #### LTV
 
