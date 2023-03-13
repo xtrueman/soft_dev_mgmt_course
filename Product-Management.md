@@ -54,9 +54,16 @@
 
 ### Дизайн-мышление
 
-
 - [Подробный гайд по дизайн-мышлению от лаборатории Wonderfull](https://lab-w.com/tools)
 - [Центр дизайн мышления](https://dtcenter.ru/)
+
+### Маркетинг / реклама, позиционирование, анализ конкурентов
+
+- [Конверсия продаж: что это такое, как правильно считать и повысить
+Источник: https://zvonobot.ru/blog/konversiya-prodazh-chto-eto-kak-schitat-i-povysit](https://zvonobot.ru/blog/konversiya-prodazh-chto-eto-kak-schitat-i-povysit/)
+- [Чем отличается контекстная реклама от таргетированной?](https://webmate.kz/chem-otlichaetsya-kontekstnaya-reklama-ot-targetirovannoy)
+- [Как определить рыночную стратегию вашего продукта?](https://vc.ru/marketing/410660-kak-opredelit-rynochnuyu-strategiyu-vashego-produkta)
+- [Анализ конкурентов: методы и план действий](https://2domains.ru/blog/analiz-konkurentov-metody-i-plan-dejstvij)
 
 ### Customer Development
 
