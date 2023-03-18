@@ -54,11 +54,6 @@
 
 - [Фреймворк RICE для приоритизации](https://pmclub.pro/articles/frejmvork-rice-dlya-prioritizacii)
 
-### Дизайн-мышление
-
-- [Подробный гайд по дизайн-мышлению от лаборатории Wonderfull](https://lab-w.com/tools)
-- [Центр дизайн мышления](https://dtcenter.ru/)
-
 
 ### Маркетинг / реклама, позиционирование, анализ конкурентов, составление портрета ЦА
 
@@ -69,9 +64,14 @@
 - [Анализ конкурентов: методы и план действий](https://2domains.ru/blog/analiz-konkurentov-metody-i-plan-dejstvij)
 - [Анализ конкурентов с примерами](https://uxprice.com/blog/ru/all-articles-ru/analiz-konkurentov-s-primerami/)
 - [Как провести подробный анализ конкурентов (+ шаблон, инструменты и много ссылок)](https://vc.ru/u/943786-andrey-smagin/315358-kak-provesti-podrobnyy-analiz-konkurentov-shablon-instrumenty-i-mnogo-ssylok)
+
+
+## Целевая аудитория, исследование ЦА
+
 - [Как составить портрет целевой аудитории
 ](https://mymarilyn.ru/blog/marketing/kak-sostavit-portret-celevoj-auditorii/)
 - [Что такое портрет целевой аудитории, зачем он нужен интернет-магазину и как грамотно его составить](https://www.insales.ru/blogs/university/portret-celevoj-auditorii)
+- [Портрет клиента: ТОП инструментов для его создания и примеры](https://esputnik.com/blog/portret-klienta-top-instrumentov-dlya-ego-sozdaniya-i-primery)
 
 
 ### Customer Development / Продуктовые исследования
@@ -84,6 +84,13 @@
 - [Пошаговый рецепт приготовления интервью](https://medium.com/@ekaterinayanke/%D0%BF%D0%BE%D1%88%D0%B0%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82-%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E-975afae5c166)
 - [Как научиться проводить пользовательские интервью](https://clevio.ai/lesson/hGxC3qR1/)
 - [Методы маркетинговых исследований](https://www.marketing.spb.ru/lib-research/all_methods.htm)
+- [Как организовать юзабилити-тестирование сайта](https://www.nic.ru/info/blog/usability-site-testing/)
+- [Методы Юзабилити Тестирования Сайта](https://topuser.pro/uspeshnoe-yuzabiliti-testirovanie-saita-metodi/)
+- [DIY. Гайд по методам продуктовых исследований: качественные, количественные, UX-исследования](https://sense23.com/post/diy-gajd-po-metodam-produktovyh-issledovanij-kachestvennye-kolichestvennye-ux-issledovaniya)
+- [Гайд по продуктовым исследованиям: опыт SkyEng, Carrot quest, Miro и Дом.ru](https://www.carrotquest.io/blog/product-research/)
+- [Роль и виды качественных исследований в продуктовом дизайне](https://karelin.cc/articles/rol-i-vidu-kachestvennyh-issledovanii-v-productovom-dizaine)
+- [Обзор 20 методов UX-исследований от NNGroup: какой метод выбрать и когда](https://ux-journal.ru/top-20-metodov-ux-ui-issledovanij-ot-nngroup.html)
+
 
 ### Customer Journey Map
 
@@ -94,15 +101,6 @@
 - [Как создать customer journey map: объясняем на примерах](https://www.unisender.com/ru/blog/sovety/customer-journey-map/)
 - [Customer Journey Map: как разработать, как использовать, примеры CJM](https://iq-adv.ru/blog/customer-journey-map/)
 - [Как создать Customer Journey Map: путь клиента шаг за шагом](https://blog.maed.ru/novice/kak-sozdat-customer-journey-map-put-klienta-shag-za-shagom/)
-
-### Продуктовые исследования
-
-- [Как организовать юзабилити-тестирование сайта](https://www.nic.ru/info/blog/usability-site-testing/)
-- [Методы Юзабилити Тестирования Сайта](https://topuser.pro/uspeshnoe-yuzabiliti-testirovanie-saita-metodi/)
-- [DIY. Гайд по методам продуктовых исследований: качественные, количественные, UX-исследования](https://sense23.com/post/diy-gajd-po-metodam-produktovyh-issledovanij-kachestvennye-kolichestvennye-ux-issledovaniya)
-- [Гайд по продуктовым исследованиям: опыт SkyEng, Carrot quest, Miro и Дом.ru](https://www.carrotquest.io/blog/product-research/)
-- [Роль и виды качественных исследований в продуктовом дизайне](https://karelin.cc/articles/rol-i-vidu-kachestvennyh-issledovanii-v-productovom-dizaine)
-- [Обзор 20 методов UX-исследований от NNGroup: какой метод выбрать и когда](https://ux-journal.ru/top-20-metodov-ux-ui-issledovanij-ot-nngroup.html)
 
 
 ### Jobs to Be Done
@@ -142,9 +140,10 @@
 - [Product Heroes. Продуктовый курс Ильи Красинского](https://heroes.camp/)
 - [https://pmclub.pro/courses/product-management](Управление продуктом: от стратегии до запуска)
 
+## Дизайн-мышление
 
-## Книги по дизайн-мышлению
-
+- [Подробный гайд по дизайн-мышлению от лаборатории Wonderfull](https://lab-w.com/tools)
+- [Центр дизайн мышления](https://dtcenter.ru/)
 - ["Думай как дизайнер. Дизайн-мышление для менеджеров"](https://www.ozon.ru/context/detail/id/30061547/)
     Книга Жанны Лиедтки и Тима Огилви, которая дает инструкции и шаблоны для управления проектами, описывает инструменты и процедуры на примерах из жизни компаний разных отраслей: Swisscom, Mars, IBM, Hewlett-Packard, Pfizer, Siemens и других. 
 - ["Креативная уверенность. Как высвободить и реализовать свои творческие силы"](https://www.ozon.ru/context/detail/id/32359478/)
