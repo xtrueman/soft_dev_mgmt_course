@@ -59,7 +59,8 @@
 - [Подробный гайд по дизайн-мышлению от лаборатории Wonderfull](https://lab-w.com/tools)
 - [Центр дизайн мышления](https://dtcenter.ru/)
 
-### Маркетинг / реклама, позиционирование, анализ конкурентов
+
+### Маркетинг / реклама, позиционирование, анализ конкурентов, составление портрета ЦА
 
 - [Конверсия продаж: что это такое, как правильно считать и повысить
 Источник: https://zvonobot.ru/blog/konversiya-prodazh-chto-eto-kak-schitat-i-povysit](https://zvonobot.ru/blog/konversiya-prodazh-chto-eto-kak-schitat-i-povysit/)
@@ -68,8 +69,12 @@
 - [Анализ конкурентов: методы и план действий](https://2domains.ru/blog/analiz-konkurentov-metody-i-plan-dejstvij)
 - [Анализ конкурентов с примерами](https://uxprice.com/blog/ru/all-articles-ru/analiz-konkurentov-s-primerami/)
 - [Как провести подробный анализ конкурентов (+ шаблон, инструменты и много ссылок)](https://vc.ru/u/943786-andrey-smagin/315358-kak-provesti-podrobnyy-analiz-konkurentov-shablon-instrumenty-i-mnogo-ssylok)
+- [Как составить портрет целевой аудитории
+](https://mymarilyn.ru/blog/marketing/kak-sostavit-portret-celevoj-auditorii/)
+- [Что такое портрет целевой аудитории, зачем он нужен интернет-магазину и как грамотно его составить](https://www.insales.ru/blogs/university/portret-celevoj-auditorii)
 
-### Customer Development
+
+### Customer Development / Продуктовые исследования
 
 - [Customer development и «кастдев» – что это и в чем разница?](https://yasno.mobi/blog/customer-development-i-kastdev-chto-eto-i-v-chem-raznitsa/)
 - [Введение в Customer Development](https://vc.ru/marketing/53090-vvedenie-v-customer-development)
@@ -78,6 +83,7 @@
 - [11 исследовательских методов для продакт-менеджеров](https://academy.yandex.ru/posts/11-issledovatelskikh-metodov-dlya-prodakt-menedzherov)
 - [Пошаговый рецепт приготовления интервью](https://medium.com/@ekaterinayanke/%D0%BF%D0%BE%D1%88%D0%B0%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82-%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E-975afae5c166)
 - [Как научиться проводить пользовательские интервью](https://clevio.ai/lesson/hGxC3qR1/)
+- [Методы маркетинговых исследований](https://www.marketing.spb.ru/lib-research/all_methods.htm)
 
 ### Customer Journey Map
 
