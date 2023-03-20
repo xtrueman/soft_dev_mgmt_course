@@ -1,38 +1,11 @@
 # Управление продуктом (Product Management)
 
-- User Story Mapping
-    - [FeatureMap: Turn your Product Backlog into a Story Map](https://www.featuremap.co/en)
-- Customer Journey Map
-- Дизайн-мышление
-- Customer Development
-- Lean Canvas
-- Продуктовые метрики
-
-- Всё есть гипотеза
-- Первые клиенты
-- Метрики
-- Изучение поисковых трендов
-- "Дизайн-спринт"
-- JTBD
-
-Тестирование гипотез
-Качественные исследования (интервью пользователей)
-Количественные исследования (A/B-тесты)
-
-
-Неопределённость мира. Гипотезы, проверка гипотез.
-
-
-
-Продуктовая воронка: https://i.imgur.com/Zve8YmE.png работает с идеальным продуктом. Чаще пользователи используют продукт не так, как предполагается.
-
-
+Полезные ссылки по теме управления продуктом.
 
 ## Управлению продуктом
 
 - [ScrumTrek: Продуктовый менеджмент](https://scrumtrek.ru/blog/tag/product-management/)
 	- [История появления и развития Product Management](https://scrumtrek.ru/blog/product-management/7082/product-management-history/)
-	- [User Story Mapping – инструкция по применению](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
 - [Эссе и образовательные симуляторы про продакт-менеджмент, продуктовую аналитику, маркетинг и рост](https://gopractice.ru/)
 	- [Product/market fit. Что это такое? Как измерить PMF с помощью метрик?](https://gopractice.ru/product-market-fit/)
 - [Минимально жизнеспособный продукт — что такое MVP проекта и продукта](https://leadstartup.ru/db/mvp)
@@ -53,6 +26,13 @@
 ### Фичи, приоритеты
 
 - [Фреймворк RICE для приоритизации](https://pmclub.pro/articles/frejmvork-rice-dlya-prioritizacii)
+
+
+### User Story Mapping
+
+- [User Story Mapping – инструкция по применению](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
+- [Что такое User Story Mapping и зачем это нужно
+](https://www.mango-office.ru/products/calltracking/for-marketing/osnovy/user-story-mapping-i-kak-ee-postroit/)
 
 
 ### Маркетинг / реклама, позиционирование, анализ конкурентов, составление портрета ЦА
@@ -90,6 +70,8 @@
 - [Гайд по продуктовым исследованиям: опыт SkyEng, Carrot quest, Miro и Дом.ru](https://www.carrotquest.io/blog/product-research/)
 - [Роль и виды качественных исследований в продуктовом дизайне](https://karelin.cc/articles/rol-i-vidu-kachestvennyh-issledovanii-v-productovom-dizaine)
 - [Обзор 20 методов UX-исследований от NNGroup: какой метод выбрать и когда](https://ux-journal.ru/top-20-metodov-ux-ui-issledovanij-ot-nngroup.html)
+- [Составление грамотных вопросов для опроса](https://ru.surveymonkey.com/mp/writing-survey-questions/)
+- [21 метод UX-исследований: какой выбрать](https://vc.ru/design/148299-21-metod-ux-issledovaniy-kakoy-vybrat)
 
 
 ### Customer Journey Map
@@ -101,6 +83,7 @@
 - [Как создать customer journey map: объясняем на примерах](https://www.unisender.com/ru/blog/sovety/customer-journey-map/)
 - [Customer Journey Map: как разработать, как использовать, примеры CJM](https://iq-adv.ru/blog/customer-journey-map/)
 - [Как создать Customer Journey Map: путь клиента шаг за шагом](https://blog.maed.ru/novice/kak-sozdat-customer-journey-map-put-klienta-shag-za-shagom/)
+- [Подборка материалов по CJM: статьи, кейсы, видео с вебинаров и конференций](https://productstar.ru/tpost/vcgfj8apu1-podborka-materialov-po-cjm-stati-keisi-v)
 
 
 ### Jobs to Be Done
@@ -110,6 +93,19 @@
 - [Гайд по технике Jobs To Be Done (JTBD)](https://scrumtrek.ru/blog/product-management/2492/gajd-po-tehnike-jobs-to-be-done-jtbd/)
 - [Теория Jobs to be Done на человечках](https://habr.com/ru/post/702674/), [Практика Jobs To Be Done на человечках](https://habr.com/ru/post/704812/)
 - [Jobs to Be Done без молочных коктейлей](https://rocketyze.com/base/jobs-to-be-done-bez-molochnyh-koktejlej/)
+
+### Wireframe / Мокапы / UI / UX / Прототипы
+
+- [Множество готовых мокапов на все случаи жизни](https://www.baza.uprock.ru/tag/mockups)
+- [Вайрфреймы, прототипы и мокапы](http://projectorat.ru/wireframes-prototypes-mockups/)
+- [Вайрфреймы, прототипы и мокапы – в чем разница?](https://awdee.ru/wireframes-prototipes-and-mockups/)
+- [Не стыдно спросить: что такое вайрфрейм, мокап и прототип](https://skvot.io/ru/blog/ne-stydno-sprosit-chto-takoe-vayrfreym-mokap-i-prototip)
+- [7 Лучших инструментов для прототипирования](http://rejump.ru/7-luchshih-instrumentov-dlya-prototipirovaniya/)
+- [An In-Depth Look Into 16 Popular Prototyping Tools](https://marketsplash.com/prototyping-tools/)
+
+### Разное
+
+- [Value Proposition Canvas. Введение](https://esputnik.com/blog/chto-takoe-value-proposition-canvas)
 
 
 ## Книги
