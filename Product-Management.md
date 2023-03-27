@@ -101,6 +101,8 @@
 - [Вайрфреймы, прототипы и мокапы – в чем разница?](https://awdee.ru/wireframes-prototipes-and-mockups/)
 - [Не стыдно спросить: что такое вайрфрейм, мокап и прототип](https://skvot.io/ru/blog/ne-stydno-sprosit-chto-takoe-vayrfreym-mokap-i-prototip)
 - [7 Лучших инструментов для прототипирования](http://rejump.ru/7-luchshih-instrumentov-dlya-prototipirovaniya/)
+- [Разбор UI/UX на примере прототипа в Figma и основные принципы](https://habr.com/ru/post/508028/)
+- [Прототипирование в Figma](https://vc.ru/design/64379-prototipirovanie-v-figma)
 - [An In-Depth Look Into 16 Popular Prototyping Tools](https://marketsplash.com/prototyping-tools/)
 
 ### Разное
