@@ -26,6 +26,8 @@
 
 - [Управленческие инструменты: 4 принципа конструктивного общения](https://stratoplan-school.com/blog/4-principles-of-constructive-confrontation/)
 - [Управленческие инструменты: 4-фазный алгоритм решения проблем с людьми](https://stratoplan-school.com/blog/management-tools-4-phase/)
+- [What’s the STAR Method?](https://www.ddiworld.com/solutions/behavioral-interviewing/star-method)
+- [The Situation-Behavior-Impact™ Feedback Tool](https://www.mindtools.com/ay86376/the-situation-behavior-impact-feedback-tool)
 
 
 # Книги
