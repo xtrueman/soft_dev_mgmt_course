@@ -47,6 +47,8 @@
 - [Agile-манифест и основополагающие принципы Agile-манифеста](https://brainrain.com.ua/agile/)
 - [Ценности Agile 3.х](https://medium.com/smysloteka/%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8-agile-3-%D1%85-2c4233e7733b)
 - [Fixed Price vs Time and Materials - какую модель оплаты выбрать?](https://stfalcon.com/ru/blog/post/fixed-price-vs-time-and-materials)
+- [Практика внедрения Scrum: трудности и пути их преодоления](http://scrumtrek.ru/img/ar-stuff/bibitchev-article.pdf) (PDF)
+- [Краткий обзор методологии Scrum](https://store.internetdevels.com/f/836dd937d3/urazbaev._kratkiy_obzor_metodologii_scrum.pdf) (PDF)
 
 ## Книги
 
