@@ -26,6 +26,7 @@
 ### Фичи, приоритеты
 
 - [Фреймворк RICE для приоритизации](https://pmclub.pro/articles/frejmvork-rice-dlya-prioritizacii)
+- [Кнопочное мышление против целостного IT-продукта](https://habr.com/ru/articles/302382/)
 
 
 ### User Story Mapping
