@@ -167,7 +167,23 @@ https://laxmitravel.ru/astro-puteshestvie-v-radzhastan/
 Также потребуется аналитический модуль, который сможет сравнивать данные с разных приемников и давать ответ на вопрос:
 Летит излучатель на частоте 5200, азимут такой, наклон такой; Прогноз его движения на карте
 
+Железо это:
+https://kroks.ru/shop/network-equipment/spectrum-analyzer-arinst-ssa-tg-lc-r2/
+
+Описание протокола запроса/ответа: 
+http://arinst.ru/files/Protocol.zip
+
+Руководство по эксплуатации:
+http://arinst.ru/files/Manual-Spectrum_Analyzer_Arinst_SSA-TG_R2-RUS.pdf
+
 (Заказчик: vk@ilgiz_abdullov)
+
+
+# Сайт футбольного клуба
+
+(Будет дополнено)
+
+(Заказчик: vk@id7014502)
 
 
 # Сайт музыкальной группы.
