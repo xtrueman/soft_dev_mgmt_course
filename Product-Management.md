@@ -35,14 +35,12 @@
 ### User Story Mapping
 
 - [User Story Mapping – инструкция по применению](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
-- [Что такое User Story Mapping и зачем это нужно
-](https://www.mango-office.ru/products/calltracking/for-marketing/osnovy/user-story-mapping-i-kak-ee-postroit/)
+- [Что такое User Story Mapping и зачем это нужно](https://www.mango-office.ru/products/calltracking/for-marketing/osnovy/user-story-mapping-i-kak-ee-postroit/)
 
 
 ### Маркетинг / реклама, позиционирование, анализ конкурентов, составление портрета ЦА
 
-- [Конверсия продаж: что это такое, как правильно считать и повысить
-Источник: https://zvonobot.ru/blog/konversiya-prodazh-chto-eto-kak-schitat-i-povysit](https://zvonobot.ru/blog/konversiya-prodazh-chto-eto-kak-schitat-i-povysit/)
+- [Конверсия продаж: что это такое, как правильно считать и повысить](https://zvonobot.ru/blog/konversiya-prodazh-chto-eto-kak-schitat-i-povysit/)
 - [Чем отличается контекстная реклама от таргетированной?](https://webmate.kz/chem-otlichaetsya-kontekstnaya-reklama-ot-targetirovannoy)
 - [Как определить рыночную стратегию вашего продукта?](https://vc.ru/marketing/410660-kak-opredelit-rynochnuyu-strategiyu-vashego-produkta)
 - [Анализ конкурентов: методы и план действий](https://2domains.ru/blog/analiz-konkurentov-metody-i-plan-dejstvij)
@@ -52,10 +50,10 @@
 
 ## Целевая аудитория, исследование ЦА
 
-- [Как составить портрет целевой аудитории
-](https://mymarilyn.ru/blog/marketing/kak-sostavit-portret-celevoj-auditorii/)
+- [Как составить портрет целевой аудитории](https://mymarilyn.ru/blog/marketing/kak-sostavit-portret-celevoj-auditorii/)
 - [Что такое портрет целевой аудитории, зачем он нужен интернет-магазину и как грамотно его составить](https://www.insales.ru/blogs/university/portret-celevoj-auditorii)
 - [Портрет клиента: ТОП инструментов для его создания и примеры](https://esputnik.com/blog/portret-klienta-top-instrumentov-dlya-ego-sozdaniya-i-primery)
+- [КТО ВАША ЦЕЛЕВАЯ АУДИТОРИЯ? А точно ли это – ВСЕ ЛЮДИ?](https://ikenguru.ru/blog/opredelite-vashu-celevuyu-auditoriyu)
 
 
 ### Customer Development / Продуктовые исследования
