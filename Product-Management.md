@@ -18,18 +18,18 @@
 - [Список лучших ресурсов для продактов 2019](https://docs.google.com/document/d/178BdWBGKrSVUzX46QrWQX7jsaSPB6lgOlLMObDYyx98/edit)
 - [Хочу стать продактом, что ботать, как найти работу без опыта?](https://zamesin.me/ru-wannabe-a-product-manager-2020/)
 - [Product management: your personal guide](https://drive.google.com/file/d/0B1TL-qlEdkpjWU54UmhHZFc3c1IxVVBYcmJaWDVoTEg0SkZF/view?resourcekey=0-mIfbvXCnTk3QxlsxZDr2OQ)
-- [Impact Mapping — инструкция по применению](https://scrumtrek.ru/blog/product-management/3326/impact-mapping-guide/)
 - [Метод персон. Полное описание и шаблон для Figma](https://medium.com/design-pub/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%B4%D0%BB%D1%8F-figma-99fa518fa84e)
 - [Шаблон Product Vision Board от Романа Пишлера](https://pcamp.productland.ru/library/article/sablon-product-vision-board-ot-romana-pislera)
 - [Дерево продуктовых гипотез: как построить систему для генерации идей, принятия решений и синхронизации больших целей в сложном продукте](https://sense23.com/post/derevo-produktovyh-gipotez-kak-postroit-sistemu-dlya-generatsii-idej-prinyatiya-reshenij-i-sinhronizatsii-bolshih-tselej-v-slozhnom-produkte)
 - [Тестируем гипотезы правильно: взлетит или не тонет?](https://sergeysichkar.ru/hadi/)
 - [Продуктовый подход: как работать с гипотезами?](https://dzen.ru/a/YPAXymB62R8zlnmL)
+- [Кто такие продакт-менеджеры и как стать одним из них](https://practicum.yandex.ru/blog/kto-takoy-product-manager/)
 
-
-### Фичи, приоритеты
+### Фичи, приоритеты фич
 
 - [Фреймворк RICE для приоритизации](https://pmclub.pro/articles/frejmvork-rice-dlya-prioritizacii)
 - [Кнопочное мышление против целостного IT-продукта](https://habr.com/ru/articles/302382/)
+- [Киллер-фича — что это значит, где и как используется Киллер-фича и есть ли риски](https://craftum.com/blog/killer-feature/)
 
 
 ### User Story Mapping
@@ -74,6 +74,8 @@
 - [Обзор 20 методов UX-исследований от NNGroup: какой метод выбрать и когда](https://ux-journal.ru/top-20-metodov-ux-ui-issledovanij-ot-nngroup.html)
 - [Составление грамотных вопросов для опроса](https://ru.surveymonkey.com/mp/writing-survey-questions/)
 - [21 метод UX-исследований: какой выбрать](https://vc.ru/design/148299-21-metod-ux-issledovaniy-kakoy-vybrat)
+- [8 лучших инструментов сбора обратной связи для SaaS-компаний](https://ru.experrto.io/blog/2020/06/19/8-luchshih-instrumentov-sbora-obratnoj-svyazi-dlya-saas-kompanij/)
+- [Как не надо проводить исследования или 20 способов как их провалить](https://www.wannabelike.ru/biblioteka/kak-ne-nado-provodit-issledovaniya)
 
 
 ### Customer Journey Map
@@ -86,6 +88,7 @@
 - [Customer Journey Map: как разработать, как использовать, примеры CJM](https://iq-adv.ru/blog/customer-journey-map/)
 - [Как создать Customer Journey Map: путь клиента шаг за шагом](https://blog.maed.ru/novice/kak-sozdat-customer-journey-map-put-klienta-shag-za-shagom/)
 - [Подборка материалов по CJM: статьи, кейсы, видео с вебинаров и конференций](https://productstar.ru/tpost/vcgfj8apu1-podborka-materialov-po-cjm-stati-keisi-v)
+- [Карта путешествий пользователя – Customer Journey Map](https://vlada-rykova.com/karta-puteshestvij-polzovatelya-customer-journey-map/)
 
 
 ### Jobs to Be Done
@@ -95,6 +98,7 @@
 - [Гайд по технике Jobs To Be Done (JTBD)](https://scrumtrek.ru/blog/product-management/2492/gajd-po-tehnike-jobs-to-be-done-jtbd/)
 - [Теория Jobs to be Done на человечках](https://habr.com/ru/post/702674/), [Практика Jobs To Be Done на человечках](https://habr.com/ru/post/704812/)
 - [Jobs to Be Done без молочных коктейлей](https://rocketyze.com/base/jobs-to-be-done-bez-molochnyh-koktejlej/)
+- [Гайд по технике Jobs To Be Done (JTBD)](https://scrumtrek.ru/blog/product-management/2492/gajd-po-tehnike-jobs-to-be-done-jtbd/)
 
 ### Wireframe / Мокапы / UI / UX / Прототипы
 
@@ -132,6 +136,8 @@
 - [Кнопочное мышление против целостного IT-продукта](https://www.youtube.com/watch?v=iix766-6lqk)
 - [Приоритизация функционала. Михаил Карпов, SkyEng](https://www.youtube.com/watch?v=BpXVJByOh8g&t=3264s)
 - [Стратегия продукта: что, зачем и как | Дмитрий Безуглый, Системный подход](https://www.youtube.com/watch?v=682AhnWvb8w)
+- [Какие бывают продуктовые исследования? Все в одной схеме](https://www.youtube.com/watch?v=14Jg86ydZk0)
+- [Как провести метод персон?](https://www.youtube.com/watch?v=wXgLCjAfj-8)
 
 ## Курсы
 

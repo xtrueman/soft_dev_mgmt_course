@@ -54,6 +54,7 @@ CPI рассчитывается путем деления расходов на
 
 ### Продуктовые метрики
 
+- [Продуктовые метрики](https://productlab.ru/blog/product-metrics)
 - [Базовые продуктовые метрики](https://vc.ru/marketing/314555-bazovye-produktovye-metriki)
 - [Продуктовые метрики: какие они бывают и как ими пользоваться?](https://vc.ru/marketing/310152-produktovye-metriki-kakie-oni-byvayut-i-kak-imi-polzovatsya)
 - [Как выбрать метрики для продукта: разбираем на примерах](https://skillbox.ru/media/management/kak_vybrat_metriki_dlya_produkta_razbiraem_na_primerakh/)
@@ -62,17 +63,29 @@ CPI рассчитывается путем деления расходов на
 - [Пример составленной иерархии метрик](https://www.mindmeister.com/ru/1369696540?t=LW7q1QV7uz)
 - [Как выбрать метрики для продукта: разбираем на примерах](https://skillbox.ru/media/management/kak_vybrat_metriki_dlya_produkta_razbiraem_na_primerakh/)
 - [Метрика North Star, или как найти Полярную звезду, которая приведет вас к успеху](https://www.carrotquest.io/blog/north-star-metric/)
+- [Продуктовые метрики: считаем ключевые показатели успеха](https://www.carrotquest.io/blog/product-metrics/)
+- [Что такое продуктовые метрики: список по отраслям, зачем они нужны, как выбрать и оценить](https://kokoc.com/blog/produktovye-metriki/)
+- [MAU, WAU, DAU](https://www.unisender.com/ru/glossary/mau-dau-ili-osnovnye-metriki-mobilnyh-prilozhenij/)
+- [Фреймворк AARRR-метрик, с которыми ваш стартап будет подобен пиратскому кораблю](https://vc.ru/marketing/408024-freymvork-aarrr-metrik-s-kotorymi-vash-startap-budet-podoben-piratskomu-korablyu)
+
+
+### Impact Mapping
+
+- [Impact Mapping — инструкция по применению](https://scrumtrek.ru/blog/product-management/3326/impact-mapping-guide/)
+- [Impact Mapping: ориентируйтесь в процессах по карте влияния](https://stfalcon.com/ru/blog/post/impact-mapping-for-product-development)
 
 
 ### Unit-экономика
 
 - [Шпаргалка: ключевые метрики для SaaS-сервисов](https://www.carrotquest.io/blog/shpargalka-metriki-dlya-saas-servisov/)
 
+
 #### LTV
 
 - [Показатель Lifetime value (LTV) для SaaS-компаний: исчерпывающее руководство](https://yagla.ru/blog/analitika/pokazatel-lifetime-value-ltv-dlya-saaskompaniy-ischerpyvayushchee-rukovodstvo/)
 - [Важен каждый: почему нужно следить за полной ценностью клиентов](https://www.thinkwithgoogle.com/intl/ru-ru/marketing-strategies/data-and-measurement/ltv/)
 - [Что такое LTV, CLV, CLTV?](https://direct-settings.ru/blog/cho-takoe-ltv-clv-cltv/)
+
 
 #### Churn
 
