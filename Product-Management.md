@@ -30,7 +30,7 @@
 - [Фреймворк RICE для приоритизации](https://pmclub.pro/articles/frejmvork-rice-dlya-prioritizacii)
 - [Кнопочное мышление против целостного IT-продукта](https://habr.com/ru/articles/302382/)
 - [Киллер-фича — что это значит, где и как используется Киллер-фича и есть ли риски](https://craftum.com/blog/killer-feature/)
-
+- [Скоринг фичей на основе метрик воронки. Funnel Scoring Model](https://vc.ru/u/18440-yuliya-rann/692808-skoring-fichey-na-osnove-metrik-voronki-funnel-scoring-model-chast-1)
 
 ### User Story Mapping
 
@@ -76,6 +76,7 @@
 - [21 метод UX-исследований: какой выбрать](https://vc.ru/design/148299-21-metod-ux-issledovaniy-kakoy-vybrat)
 - [8 лучших инструментов сбора обратной связи для SaaS-компаний](https://ru.experrto.io/blog/2020/06/19/8-luchshih-instrumentov-sbora-obratnoj-svyazi-dlya-saas-kompanij/)
 - [Как не надо проводить исследования или 20 способов как их провалить](https://www.wannabelike.ru/biblioteka/kak-ne-nado-provodit-issledovaniya)
+- [Что такое тестирование юзабилити и как его провести?](https://www.uprock.ru/articles/chto-takoe-testirovanie-yuzabiliti-i-kak-ego-provesti-0)
 
 
 ### Customer Journey Map
