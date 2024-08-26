@@ -54,6 +54,7 @@
 - [Что такое портрет целевой аудитории, зачем он нужен интернет-магазину и как грамотно его составить](https://www.insales.ru/blogs/university/portret-celevoj-auditorii)
 - [Портрет клиента: ТОП инструментов для его создания и примеры](https://esputnik.com/blog/portret-klienta-top-instrumentov-dlya-ego-sozdaniya-i-primery)
 - [КТО ВАША ЦЕЛЕВАЯ АУДИТОРИЯ? А точно ли это – ВСЕ ЛЮДИ?](https://ikenguru.ru/blog/opredelite-vashu-celevuyu-auditoriyu)
+- [Пропасть Мура: основные идеи](https://rocketyze.com/base/moore-chasm/)
 
 
 ### Customer Development / Продуктовые исследования
