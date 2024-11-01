@@ -50,7 +50,7 @@
 	- [Бизнес-модели для стартапа. Примеры бизнес моделей](https://www.youtube.com/watch?v=YG_J4V-7X8o)
 - [Дмитрий Калаев "Ценностное предложение"](https://www.youtube.com/watch?v=813vqZbWa-U)
 - [Бизнес-модель Lean Canvas: шаблон Эш Маурья (за 8 минут)](https://www.youtube.com/watch?v=6lP0gtIGaco)
-
+- [Как живет профессор Стэнфорда. Разговор с Ильей Стребулаевым в Кремниевой Долине](https://www.youtube.com/watch?v=T7uBf6X2lYI) — Ильей Стребулаев — один из топовых специалистов в мире по стартапам
 
 ### Шаблоны Lean Canvas
 
