@@ -36,6 +36,7 @@
 
 - [User Story Mapping – инструкция по применению](https://scrumtrek.ru/blog/product-management/3498/user-story-mapping-guide/)
 - [Что такое User Story Mapping и зачем это нужно](https://www.mango-office.ru/products/calltracking/for-marketing/osnovy/user-story-mapping-i-kak-ee-postroit/)
+- [Как использовать User Story mapping при создании цифрового продукта](https://habr.com/ru/articles/860762/) / Хабр
 
 
 ### Маркетинг / реклама, позиционирование, анализ конкурентов, составление портрета ЦА
