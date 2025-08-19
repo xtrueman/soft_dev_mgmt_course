@@ -215,6 +215,10 @@ https://alizbar-harp.com/ns/magazin/albomyi/
 
 (Заказчик: https://vk.com/kukolnitsavega)
 
+## Сайт фотографа
+
+(Заказчик: https://vk.com/flagmanfoto)
+
 ## Интернет-каталог колёс
 
 Создать интернет-каталог с товарами: фото с описанием.
