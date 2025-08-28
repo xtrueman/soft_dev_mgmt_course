@@ -134,13 +134,17 @@
 	- [004. Школа менеджмента — Продуктовые исследования. Иван Замесин](https://www.youtube.com/watch?v=0MRJVoiqpXg)
 	- [Инструменты поиска и проверки гипотез — Михаил Высоковский](https://www.youtube.com/watch?v=1staorzGRXU)
 - [Илья Красинский: как пристрелить плохие гипотезы](https://www.youtube.com/watch?v=HU4x9UtkmMU)
-- [Jobs To Be Done для цифровых продуктов](https://www.youtube.com/watch?v=1PIJPuEw9aI&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD)
-    - [Курс по JTBD. Мастер-класс #2: интервью по подходу JTBD](https://www.youtube.com/watch?v=UxFNWtaP11A&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD&index=7)
 - [Кнопочное мышление против целостного IT-продукта](https://www.youtube.com/watch?v=iix766-6lqk)
 - [Приоритизация функционала. Михаил Карпов, SkyEng](https://www.youtube.com/watch?v=BpXVJByOh8g&t=3264s)
 - [Стратегия продукта: что, зачем и как | Дмитрий Безуглый, Системный подход](https://www.youtube.com/watch?v=682AhnWvb8w)
 - [Какие бывают продуктовые исследования? Все в одной схеме](https://www.youtube.com/watch?v=14Jg86ydZk0)
 - [Как провести метод персон?](https://www.youtube.com/watch?v=wXgLCjAfj-8)
+
+### JTBD
+
+- [Jobs To Be Done для цифровых продуктов](https://www.youtube.com/watch?v=1PIJPuEw9aI&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD)
+    - [Курс по JTBD. Мастер-класс #2: интервью по подходу JTBD](https://www.youtube.com/watch?v=UxFNWtaP11A&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD&index=7)
+- [Основы Jobs To Be Done | Бесплатная лекция тренинга «Как делать продукт» от Вани Замесина](https://www.youtube.com/watch?v=1v6GKOiAX9Q)
 
 ## Курсы
 
