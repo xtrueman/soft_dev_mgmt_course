@@ -140,6 +140,13 @@
 - [Какие бывают продуктовые исследования? Все в одной схеме](https://www.youtube.com/watch?v=14Jg86ydZk0)
 - [Как провести метод персон?](https://www.youtube.com/watch?v=wXgLCjAfj-8)
 
+### Видео от Юлии Билинкис
+
+- [Плейлист «Юля про продукт»](https://www.youtube.com/watch?v=Mg1CxbDvujM&list=PLTc4axkIkEGtsAwccb0wB9NbyLFG04Q_T)
+- [Плейлист «RE:FRAME Продуктовое мышление»](https://www.youtube.com/watch?v=0CzhRd7lwd8&list=PLTc4axkIkEGt1SpBCMjzeTkAp8UtdacgJ)
+- Сериал «Анатомия выбора»: [Ч1](https://www.youtube.com/watch?v=S_LX9JqgBpo) [Ч2](https://www.youtube.com/watch?v=jhY10Og1EtQ) [Ч3](https://www.youtube.com/watch?v=QavDqKBJrOo) [Ч4](https://www.youtube.com/watch?v=WOJ1feP5jDE) [Ч5](https://www.youtube.com/watch?v=_4LHw9t17lY) [Ч6](https://www.youtube.com/watch?v=MSSaO7VMOmY)
+- [Как AI меняет продуктовый подход: инсайты и фреймворки от Ильи Красинского](https://www.youtube.com/watch?v=6DBZ8Jg6N80)
+
 ### JTBD
 
 - [Jobs To Be Done для цифровых продуктов](https://www.youtube.com/watch?v=1PIJPuEw9aI&list=PLAZLeB2LBHe3XxP8kKFrdPYrBxyj8yogD)
